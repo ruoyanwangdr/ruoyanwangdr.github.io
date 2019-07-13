@@ -176,10 +176,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   articles:
-    output: true
+    output: false
     permalink: /:collection/:path/
   expressions:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
