@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R. Stuart Geiger"
+title                    : "Ruoyan Wang"
 title_separator          : "-"
-name                     : &name "R. Stuart Geiger"
+name                     : &name "Ruoyan Wang"
 description              : &description "computational ethnographer<br/>ethnographer of computation"
 url                      : https://rywjhzd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,12 +78,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "R. Stuart Geiger"
+  name             : "Ruoyan Wang"
   avatar           : "oban3.jpg"
   bio              : "Ethnographer of computation and computational ethnographer; research staff at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
   location         : "Berkeley, CA"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
   email            :
   uri              :
   bitbucket        :
@@ -92,24 +92,24 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "staeiou"
+  github           : "rywjhzd"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0001-7215-0532"
+  orcid            : #"http://orcid.org/0000-0001-7215-0532"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : *twitter
+  twitter          : #*twitter
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : "staeiou"
+  wikipedia        : #"staeiou"
 
 
 # Reading Files
