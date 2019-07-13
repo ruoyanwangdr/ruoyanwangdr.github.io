@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruoyan Wang"
 title_separator          : "-"
 name                     : &name "Ruoyan Wang"
-description              : &description "computational ethnographer<br/>ethnographer of computation"
+description              : &description "astrophysics student<br/>planetary scientist"
 url                      : https://rywjhzd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rywjhzd/rywjhzd.github.io"
@@ -80,8 +80,8 @@ analytics:
 author:
   name             : "Ruoyan Wang"
   avatar           : "profile.jpg"
-  bio              : "Ethnographer of computation and computational ethnographer; research staff at the <a style='color: black;' href='http://bids.berkeley.edu'>Berkeley Institute for Data Science</a>"
-  location         : "Berkeley, CA"
+  bio              : "Astrophysics graduate student at Leiden University; BSc and Junior Specialist at <a style='color: black;' href='https://www.astro.ucsc.edu/'>UC Santa Cruz</a>."
+  location         : "Leiden, Netherlands"
   employer         :
   googlescholar    : #"https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
   email            :
