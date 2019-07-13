@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               :
 facebook:
   username               : #&https://www.facebook.com/rywjhzd
   app_id                 :
@@ -81,35 +81,35 @@ analytics:
 # Site Author
 author:
   name             : "Ruoyan Wang"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Astrophysics graduate student at Leiden University; BSc and Junior Specialist at UC Santa Cruz."
   location         : "Leiden, Netherlands"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "rywjhzd"
   foursquare       :
   github           : "rywjhzd"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
