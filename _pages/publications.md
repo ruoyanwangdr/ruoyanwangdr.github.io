@@ -14,5 +14,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-%Ruoyan Wang, Christopher Seay, and Jonathan Fortney. Atmospheres of Brown Dwarfs. In <em>AmericanAstronomical Society Meeting Abstracts #231</em>, volume 231 of <em>American Astronomical Society Meeting Abstracts</em>, page 450.10, Jan 2018.
