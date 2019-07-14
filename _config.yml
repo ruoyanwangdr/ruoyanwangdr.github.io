@@ -175,7 +175,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  articles:
     output: true
     permalink: /:collection/:path/
   expressions:
