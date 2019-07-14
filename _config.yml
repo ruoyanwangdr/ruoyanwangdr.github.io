@@ -83,7 +83,7 @@ author:
   bio              : "Astrophysics graduate student at <a style='color: black;' href='https://www.universiteitleiden.nl/en/science/astronomy'>Leiden Observatory</a>; BSc and Junior Specialist at <a style='color: black;' href='https://www.astro.ucsc.edu/'>UC Santa Cruz</a>."
   location         : "Leiden, Netherlands"
   employer         :
-  googlescholar    : #"https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
+  googlescholar    : 
   email            :
   uri              :
   bitbucket        :
@@ -98,18 +98,18 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/0000-0001-7215-0532"
+  orcid            :
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    :
   steam            :
   tumblr           :
-  twitter          : #*twitter
+  twitter          :
   vine             :
   weibo            :
   xing             :
   youtube          :
-  wikipedia        : #"staeiou"
+  wikipedia        :
 
 
 # Reading Files
