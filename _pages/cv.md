@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Full CV [PDF](http://rywjhzd.github.io/files/paper1.pdf)
+Full CV ([<strong>PDF</strong>])(http://rywjhzd.github.io/files/paper1.pdf)
 
 {% include base_path %}
 
