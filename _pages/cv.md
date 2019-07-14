@@ -6,7 +6,8 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<a href="http://rywjhzd.github.io/files/paper1.pdf">Download PDF here.</a>
+<u><a style="line-height: 1.5;" href="http://rywjhzd.github.io/files/paper1.pdf"><span style="color: #333333;"><span style="font-size: medium;">Full CV in PDF format.</span></span></a></u>
+
 
 {% include base_path %}
 
