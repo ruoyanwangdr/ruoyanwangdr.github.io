@@ -216,10 +216,10 @@ defaults:
       author_profile: true
       share: false
       comments: false
-  # _publications
+  # _articles
   - scope:
       path: ""
-      type: publication
+      type: articles
     values:
       layout: single
       author_profile: true
