@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ruoyan Wang"
   avatar           : "profile.jpg"
-  bio              : "Astrophysics graduate student at Leiden University; BSc and Junior Specialist at <a style='color: black;' href='https://www.astro.ucsc.edu/'>UC Santa Cruz</a>."
+  bio              : "Astrophysics graduate student at <a style='color: black;' href='https://www.universiteitleiden.nl/en/science/astronomy'>Leiden University</a>; BSc and Junior Specialist at <a style='color: black;' href='https://www.astro.ucsc.edu/'>UC Santa Cruz</a>."
   location         : "Leiden, Netherlands"
   employer         :
   googlescholar    : #"https://scholar.google.com/citations?user=0AvWi3wAAAAJ&hl=en"
@@ -90,12 +90,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "rywjhzd"
   foursquare       :
   github           : "rywjhzd"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : 
   lastfm           :
   linkedin         :
   orcid            : #"http://orcid.org/0000-0001-7215-0532"
