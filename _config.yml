@@ -219,7 +219,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: publication
     values:
       layout: single
       author_profile: true
