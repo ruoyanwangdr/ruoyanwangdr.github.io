@@ -83,7 +83,7 @@ author:
   bio              : "Astrophysics graduate student at <a style='color: black;' href='https://www.universiteitleiden.nl/en/science/astronomy'>Leiden Observatory</a>; BSc and Junior Specialist at <a style='color: black;' href='https://www.astro.ucsc.edu/'>UC Santa Cruz</a>."
   location         : "Leiden, Netherlands"
   employer         :
-  googlescholar    : 
+  googlescholar    :
   email            :
   uri              :
   bitbucket        :
@@ -259,7 +259,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 # Plugins
 gems:
   - jekyll-paginate
-  - jekyll-sitemap
+  #- jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
@@ -267,7 +267,7 @@ gems:
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
-  - jekyll-sitemap
+  #- jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
