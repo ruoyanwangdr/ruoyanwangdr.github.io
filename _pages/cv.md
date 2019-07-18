@@ -18,16 +18,11 @@ Education
 
 Experiences
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2018: Research Assistant
+  * University of California, Santa Cruz 
+  * Duties included: Brown Dwarfs and Hot Jupiters: Effects of Temperature Structure and Clouds on Emitted Spectra
+  * Supervisor: Prof. Jonathan Fortney
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
@@ -55,6 +50,6 @@ Experiences
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Awards
 ======
-* Currently signed in to 43 different slack teams
+* Undergraduate Dean?s Scholarships and Awards, 2014-2017
