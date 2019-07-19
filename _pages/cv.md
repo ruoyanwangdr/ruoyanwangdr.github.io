@@ -18,10 +18,15 @@ Education
 
 Experiences
 ======
-* 2016-2018: Research Assistant
+* 2016-2018: Undergraduate Research
   * University of California, Santa Cruz 
   * Work Focus: Brown Dwarfs and Hot Jupiters: Effects of Temperature Structure and Clouds on Emitted Spectra
   * Supervisor: Prof. Jonathan Fortney
+  
+* 2018-2019: Master Research
+  * Leiden University
+  * Work Focus: Detection of Transiting Exoplanets on the Bright End with MASCARA/TESS
+  * Supervisor: Prof. Ignas Snellen
 
 Skills
 ======
