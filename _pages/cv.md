@@ -20,7 +20,7 @@ Experiences
 ======
 * 2016-2018: Research Assistant
   * University of California, Santa Cruz 
-  * Duties included: Brown Dwarfs and Hot Jupiters: Effects of Temperature Structure and Clouds on Emitted Spectra
+  * Work Focus: Brown Dwarfs and Hot Jupiters: Effects of Temperature Structure and Clouds on Emitted Spectra
   * Supervisor: Prof. Jonathan Fortney
 
 Skills
@@ -52,4 +52,5 @@ Experiences
   
 Awards
 ======
-* Undergraduate Dean's Scholarships and Awards, 2014-2017
+* Undergraduate Dean's Scholarships and Awards, 2013-2017
+* Astronomy Master Scholarship, 2018-2020
