@@ -49,7 +49,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Experiences
+Relevant Works
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
