@@ -52,4 +52,4 @@ Experiences
   
 Awards
 ======
-* Undergraduate Dean?s Scholarships and Awards, 2014-2017
+* Undergraduate Dean's Scholarships and Awards, 2014-2017
