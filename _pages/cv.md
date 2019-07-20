@@ -28,6 +28,11 @@ Research Experiences
   * Work Focus: Detection of Transiting Exoplanets on the Bright End with MASCARA/TESS
   * Supervisor: Prof. Ignas Snellen
 
+* 2019-2020: Master Research
+  * Leiden University
+  * Work Focus: TBD
+  * Supervisor: Prof. Matthew Kenworthy
+
 Skills
 ======
 * Skill 1
