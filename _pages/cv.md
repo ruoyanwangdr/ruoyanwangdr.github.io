@@ -61,5 +61,5 @@ Relevant Works
   
 Awards
 ======
-* Undergraduate Dean's Scholarships and Awards, 2013-2017
+* Regents Scholarships, 2013-2017
 * Astronomy Master Scholarship, 2018-2020
