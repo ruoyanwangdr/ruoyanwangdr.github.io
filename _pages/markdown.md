@@ -11,4 +11,5 @@ Contact information is below, including email and various web services.
 
 * E-mail: [rywang [at] strw [dot] leidenuniv [dot] nl](rywang@strw.leidenuniv.nl)
 * Facebook: [rywjhzd](https://www.facebook.com/rywjhzd)
+* Linkedln: [ruoyan-wang-0a55b9191](https://www.linkedin.com/in/ruoyan-wang-0a55b9191)
 * Leiden University: [Leiden Observatory](https://local.strw.leidenuniv.nl/people/touchscreen2/persinline.php?id=4966)
