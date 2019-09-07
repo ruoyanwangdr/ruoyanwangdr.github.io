@@ -60,5 +60,5 @@ Relevant Works
   
 Awards
 ======
-* Regents Scholarships, 2013-2017
+* UC Regents Scholarships, 2013-2017
 * Astronomy Master Scholarship, 2018-2020
