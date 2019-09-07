@@ -38,7 +38,6 @@ Skills
 * Data Analysis
 * Programming Languages
   * Python
-  * Fortran
   * Mathematica
 
 Publications
