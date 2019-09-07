@@ -31,7 +31,7 @@ Research Experiences
 * 2019-2020: Master Research
   * Leiden University
   * Work Focus: TBD
-  * Supervisor: Prof. Matthew Kenworthy
+  * Supervisor: TBD
 
 Skills
 ======
