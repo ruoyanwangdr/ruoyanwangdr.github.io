@@ -20,7 +20,7 @@ Research Experiences
 ======
 * 2016-2018: Undergraduate Research
   * University of California, Santa Cruz 
-  * Work Focus: Brown Dwarfs and Hot Jupiters: Effects of Temperature Structure and Clouds on Emitted Spectra
+  * Work Focus: Emission Spectra and Cloud Formation in the Coolest Brown Dwarfs and Planets. 
   * Supervisor: Prof. Jonathan Fortney
   
 * 2018-2019: Master Research
