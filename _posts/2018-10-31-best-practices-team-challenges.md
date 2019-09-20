@@ -10,7 +10,7 @@ This post is a summary of the first BIDS Best Practices lunch, in which we bring
 
 We began planning for this series by reviewing many of the published papers and series around "best practices" in scientific computing (e.g. [Wilson et al, 2014](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1001745)), “good enough practices” ([Wilson et al, 2017](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510)) and PLOS Computational Biology’s “[ten simple rules](https://collections.plos.org/ten-simple-rules)” series (e.g. [Sandve et al, 2013](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003285); [Goodman et al, 2014](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003542)). We also see this series as an intellectual successor to the collection of case studies in reproducible research published by several BIDS fellows ([Kitzes, Turek, and Deniz, 2018](http://practicereproducibleresearch.org)). One reason we chose to identify issues with doing data science in teams and groups is because many of us felt like we understood how to best practice data-intensive research individually, but struggled with how to do this well in teams and groups.
 
-![](https://github.com/rywjhzd/rywjhzd.github.io/blob/master/images/blog/2019-09-20.jpg =250x250)
+![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-20.jpg =250x250)
 
 ## Compute and data challenges
 
