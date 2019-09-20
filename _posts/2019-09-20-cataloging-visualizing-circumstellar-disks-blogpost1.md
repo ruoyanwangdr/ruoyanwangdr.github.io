@@ -1,5 +1,5 @@
 ---
-title:Cataloging and Visualizing Cradles of Planet Formation - Blog Post 1
+title: "Cataloging and Visualizing Cradles of Planet Formation - Blog Post 1"
 published: 2019-09-20
 excerpt: "A brief summary of works I've done today"
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-blogpost1
