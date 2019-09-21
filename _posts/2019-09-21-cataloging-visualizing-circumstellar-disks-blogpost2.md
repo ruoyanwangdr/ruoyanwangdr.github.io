@@ -8,6 +8,6 @@ permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-blogpost2
 
 ## An usual Saturday
 
-Had shawarma today at the market. Later spent the entire after noon working on GSD assignment. Video chatted with mom and dad. Gonna continue working on schoolworks. 
+Had shawarma today at the market. Later spent the entire afternoon working on GSD assignment. Video chatted with mom and dad. Gonna continue working on schoolworks. 
 
 ![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-21.jpg)
