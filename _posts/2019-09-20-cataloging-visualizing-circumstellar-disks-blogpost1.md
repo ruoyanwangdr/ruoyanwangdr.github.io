@@ -13,7 +13,7 @@ Spent an hour today with Matt and Christian discussing the blueprint of this pro
 
 ![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-20.jpg)
 
-## An usual Saturday
+## A usual Saturday
 ### September 21, 2019
 
 Had shawarma today at the market. Later spent the entire afternoon working on GSD assignment. Video chatted with mom and dad. Gonna continue working on schoolworks. 
