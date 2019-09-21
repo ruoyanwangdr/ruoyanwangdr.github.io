@@ -1,7 +1,7 @@
 ---
-title: "Cataloging and Visualizing Cradles of Planet Formation - Blog Post 1"
+title: "Cataloging and Visualizing Cradles of Planet Formation - Week 1"
 published: 2019-09-20
-excerpt: "A brief summary of works I've done today"
+excerpt: "A brief summary of works I've done in this week."
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-blogpost1
 ---
 *By Ruoyan Wang
