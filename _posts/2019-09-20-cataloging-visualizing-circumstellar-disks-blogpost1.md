@@ -19,3 +19,8 @@ Spent an hour today with Matt and Christian discussing the blueprint of this pro
 Had shawarma today at the market. Later spent the entire afternoon working on GSD assignment. Video chatted with mom and dad. Gonna continue working on schoolworks. 
 
 ![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-21.jpg)
+
+## I really don't wanna work on Sunday
+### September 22, 2019
+
+Worked on PSF and BPH today. Started to learn how to create a database using Python from some videos and online tutorials. Still need to the research paper more. 
