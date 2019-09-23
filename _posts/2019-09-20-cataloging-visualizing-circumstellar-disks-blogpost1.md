@@ -24,3 +24,8 @@ Had shawarma today at the market. Later spent the entire afternoon working on GS
 ### September 22, 2019
 
 Worked on PSF and BPH today. Started to learn how to create a database using Python from some videos and online tutorials. Still need to the research paper more. 
+
+## Not bad tbh
+### September 23, 2019
+
+I found that latex typing works is actually a pretty good way to save papers, as I could erase my answers over and over again from those unfortunate mistakes. Categorizing protoplanetary disks is pretty fun in a sense. The curry soup served at the dinning hall today during lunch was awesome! 
