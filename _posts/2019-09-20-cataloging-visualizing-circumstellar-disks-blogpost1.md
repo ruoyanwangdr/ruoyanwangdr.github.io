@@ -29,3 +29,8 @@ Worked on PSF and BPH today. Started to learn how to create a database using Pyt
 ### September 23, 2019
 
 I found that latex typing works is actually a pretty good way to save papers, as I could erase my answers over and over again from those unfortunate mistakes. Categorizing protoplanetary disks is pretty fun in a sense. The curry soup served at the dinning hall today during lunch was awesome! 
+
+## Where is my time?
+### September 24, 2019
+
+Spent an hour and half discussing with a bunch of people about a separation of variables in a distribution function of galaxies involving potential and velocities. Have no idea how RNA and protein folding work but still need to figure it out. Let me count what's left: Ciesa 2011, learning to make a database, PSF, GSD, a travel journal, and fixing my bike! Ah I wish I could control time.
