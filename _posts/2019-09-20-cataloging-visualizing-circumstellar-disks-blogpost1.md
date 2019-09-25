@@ -1,7 +1,7 @@
 ---
 title: "Cataloging and Visualizing Cradles of Planet Formation - Week 1"
 published: 2019-09-20
-excerpt: "A brief summary of works I've done in this week."
+%excerpt: "A brief summary of works I've done in this week."
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-blogpost1
 ---
 *By Ruoyan Wang
@@ -34,3 +34,11 @@ I found that latex typing works is actually a pretty good way to save papers, as
 ### September 24, 2019
 
 Spent an hour and half discussing with a bunch of people about a separation of variables in a distribution function of galaxies involving potential and velocities. Have no idea how RNA and protein folding work but still need to figure it out. Let me count what's left: Ciesa 2011, learning to make a database, PSF, GSD, a travel journal, and fixing my bike! Ah I wish I could control time.
+
+## If I can do it 
+### September 25, 2019
+
+Me trying to build a database. Image credit to Dank Matter Astrophysics Meme. 
+
+![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-25.jpg)
+
