@@ -42,3 +42,9 @@ Me trying to build a database. Image credit to Dank Matter Astrophysics Meme.
 
 ![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-25.jpg)
 
+## Just like trying to write poetry in Dutch
+### September 26, 2019
+
+Today I went to a talk given by Rob Phillips about deciphering genomes. He was a great speaker. He summarized his job as to figure out a translation map so that people can read something in a language they don't know. I only wish that I could know more about biology to understand what he said. Also, something funny here. I was told that finding needles in haystacks is some sort of art. I have no comments on this subject. 
+
+As for astronomy, I learned a bit about classifications of young stellar objects (YSOs) based on spectral energy distribution. Different classifications can be ambiguous depending on inclinations of YSOs. This is getting more and more interesting. I expect to finish several more chapters later on. 
