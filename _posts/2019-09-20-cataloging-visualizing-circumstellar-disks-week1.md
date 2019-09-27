@@ -4,7 +4,6 @@ published: 2019-09-20
 excerpt: "First week since I began this research project. I must be honest that I didn't work much on it. Most of my days were spent on schoolworks and reading books and papers. Time is of the essence but I feel like I've run out of it already. "
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-week1
 ---
-%*By Ruoyan Wang
 
 ## Beginning of the project
 ### September 20, 2019

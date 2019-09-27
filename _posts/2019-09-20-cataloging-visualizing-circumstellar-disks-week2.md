@@ -4,7 +4,6 @@ published: 2019-09-27
 excerpt: "Let's see what will happen in the second week. "
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-week2
 ---
-%*By Ruoyan Wang
 
 ## The revolutionary 21st century
 ### September 27, 2019
