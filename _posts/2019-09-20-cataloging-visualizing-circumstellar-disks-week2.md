@@ -22,3 +22,7 @@ Worked on GSD and watched tutorial for Django for a bit. I cooked beef ball rame
 
 Did not work on anything substantially. 
 
+## Calculus review
+### September 30, 2019
+
+Spent a hell long time on a integral. I might need to retake some math classes. 
