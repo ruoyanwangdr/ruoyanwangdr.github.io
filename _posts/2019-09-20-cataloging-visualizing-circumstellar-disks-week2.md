@@ -16,3 +16,9 @@ Also, Friday belongs to the basketball night. "Nothing but the bottom of the net
 ### September 28, 2019
 
 Worked on GSD and watched tutorial for Django for a bit. I cooked beef ball ramen today and it was delicious! That sort of compensated this boring Saturday.
+
+## Lazy at home
+### September 29, 2019
+
+Did not work on anything substantially. 
+
