@@ -1,6 +1,6 @@
 ---
 title: "Cataloging and Visualizing Cradles of Planet Formation - Week 2"
-published: 2019-09-27
+published: 2019-09-26
 excerpt: "Let's see what will happen in the second week. "
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-week2
 ---
