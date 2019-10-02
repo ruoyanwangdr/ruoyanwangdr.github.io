@@ -34,4 +34,4 @@ Graphically, dark color backgrounds look cooler to me. Learning a new programmin
 
 ### October 2, 2019
 
-At least the sun came out today. To be frankly, I could not see the point of putting peanut butter sauce into everything. 
+At least the sun came out today. To be frank, I could not see the point of putting peanut butter sauce into everything. 
