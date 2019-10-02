@@ -31,3 +31,7 @@ Spent a hell long time on a integral. I might need to retake some math classes.
 ### October 1, 2019
 
 Graphically, dark color backgrounds look cooler to me. Learning a new programming language really takes some efforts. How to get better? We are talking about PRACTICE man!
+
+### October 2, 2019
+
+At least the sun came out today. To be frankly, I could not see the point of putting peanut butter sauce into everything. 
