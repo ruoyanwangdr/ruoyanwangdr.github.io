@@ -34,4 +34,8 @@ Graphically, dark color backgrounds look cooler to me. Learning a new programmin
 
 ### October 2, 2019
 
-At least the sun came out today. To be frank, I could not see the point of putting peanut butter sauce into everything. 
+At least the sun came out today. To be frank, I could not see the point of putting peanut butter sauce into everything. Relief of Leiden is tomorrow, I can rest for a little bit. I'm going for a trip to Jordan during this vacation. So excited!
+
+### October 3, 2019
+
+Amman is such a beautiful city. Jordanian dishes are simply amazing. After a series of raining days, finally I can see the blue sky, feel the warm sun, and enjoy this mild temperature.  
