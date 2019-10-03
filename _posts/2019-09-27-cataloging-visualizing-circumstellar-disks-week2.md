@@ -38,4 +38,6 @@ At least the sun came out today. To be frank, I could not see the point of putti
 
 ### October 3, 2019
 
-Amman is such a beautiful city. Jordanian dishes are simply amazing. After a series of raining days, finally I can see the blue sky, feel the warm sun, and enjoy this mild temperature.  
+Amman is such a beautiful city. The traditional Jordanian dish mansaf is simply amazing. After a series of raining days, finally I can see the blue sky, feel the warm sun, and enjoy this mild temperature, though the sun is a bit too much. I am not really a desert guy. 
+
+![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-10-03.jpg)
