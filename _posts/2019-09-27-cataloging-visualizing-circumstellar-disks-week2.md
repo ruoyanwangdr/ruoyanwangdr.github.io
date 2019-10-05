@@ -1,7 +1,7 @@
 ---
 title: "Cataloging and Visualizing Cradles of Planet Formation - Week 2"
 published: 2019-09-27
-excerpt: "The second week is pretty much a normal week. I spent most of my time on homework and reading and watching research related materials. Nothing special. "
+excerpt: "The second week was pretty much a normal week. I spent most of my time on homework and reading and watching research related materials. Nothing special. "
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-week2
 ---
 
@@ -34,10 +34,4 @@ Graphically, dark color backgrounds look cooler to me. Learning a new programmin
 
 ### October 2, 2019
 
-At least the sun came out today. To be frank, I could not see the point of putting peanut butter sauce into everything. Relief of Leiden is tomorrow, I can rest for a little bit. I'm going for a trip to Jordan during this vacation. So excited!
-
-### October 3, 2019
-
-Amman is such a beautiful city. The traditional Jordanian dish mansaf is simply amazing. After a series of raining days, finally I can see the blue sky, feel the warm sun, and enjoy this mild temperature, though the sun is a bit too much. I am not really a desert guy. 
-
-![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-10-03.jpg)
+At least the sun came out today. To be frank, I could not see the point of putting peanut butter sauce into everything. Relief of Leiden is tomorrow. I am going for a vacation. 
