@@ -14,3 +14,7 @@ Watched several more tutorial videos for django. Also read some stuff for course
 ### October 8, 2019
 
 Did some grad app researches. 
+
+### October 9, 2019
+
+Worked on my js model and GSD homework. Watched Ad Astra tonight with some other Sterrewacht people. The lines are good but the plot does not make sense. 
