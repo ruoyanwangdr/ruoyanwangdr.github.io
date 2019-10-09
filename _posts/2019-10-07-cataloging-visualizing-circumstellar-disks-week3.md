@@ -9,3 +9,8 @@ permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-week3
 ### October 7, 2019
 
 Watched several more tutorial videos for django. Also read some stuff for courseworks.
+
+
+### October 8, 2019
+
+Did some grad app researches. 
