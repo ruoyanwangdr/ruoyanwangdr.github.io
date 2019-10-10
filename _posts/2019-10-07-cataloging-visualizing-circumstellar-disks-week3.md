@@ -15,6 +15,12 @@ Watched several more tutorial videos for django. Also read some stuff for course
 
 Did some grad app researches. 
 
+
 ### October 9, 2019
 
 Worked on my js model and GSD homework. Watched Ad Astra tonight with some other Sterrewacht people. The lines are good but the plot does not make sense. 
+
+
+### October 10, 2019
+
+I created a disk catalog web framework today. For now it contains an object name and its corresponding category. The admin interface has been also updated.
