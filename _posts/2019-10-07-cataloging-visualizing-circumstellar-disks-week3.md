@@ -2,7 +2,7 @@
 title: "Cataloging and Visualizing Cradles of Planet Formation - Week 3"
 published: 2019-10-07
 excerpt: "Returned from vacation. "
-permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks-week3
+permalink: /posts/2019/10/cataloging-visualizing-circumstellar-disks-week3
 ---
 
 
