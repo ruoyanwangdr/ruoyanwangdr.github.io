@@ -8,4 +8,4 @@ permalink: /posts/2019/10/cataloging-visualizing-circumstellar-disks-week4
 
 ### October 11, 2019
 
-Created subviews under disks sessions. 
+Created subviews under disk sessions, plus a template for the database. Need to add some details about all the disks. 
