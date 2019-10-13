@@ -14,3 +14,7 @@ Created subviews under disk sessions, plus a template for the database. Need to 
 ### October 12, 2019
 
 Worked on GSD assignment and did some researches for grad schools. 
+
+### October 13, 2019
+
+Trying to add disk details as subviews.
