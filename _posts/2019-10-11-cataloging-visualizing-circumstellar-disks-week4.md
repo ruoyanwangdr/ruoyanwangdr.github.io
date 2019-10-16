@@ -22,3 +22,7 @@ Trying to add disk details as subviews.
 ### October 14, 2019
 
 The previous online table was very unstable when adding in large datasets. Very high probability of crushing. Also having trouble ordering the items. Rewrote the structure with different templates. 
+
+### October 15, 2019
+
+Spent most of my time on GSD and BHP assignments. 
