@@ -30,3 +30,7 @@ Spent most of my time on GSD and BHP assignments.
 ### October 16, 2019
 
 Met with Matt today and talked about the next step. Need some minor fixes for the table. Also, a function to read in .txt or .csv files for massive data for the input. Gonna start playing around with 3D models.
+
+### October 17, 2019
+
+Worked on GSD, BHP, and PFS. 
