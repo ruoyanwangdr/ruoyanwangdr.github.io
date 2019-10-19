@@ -123,3 +123,7 @@ Worked on GSD, BHP, and PFS.
 ### October 18, 2019
 
 Worked on BHP.
+
+### October 19, 2019
+
+Coached a basketball practice lesson. 
