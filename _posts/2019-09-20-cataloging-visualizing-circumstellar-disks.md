@@ -135,3 +135,7 @@ Finished BHP.
 ### October 21, 2019
 
 Worked on PFS. 
+
+### October 22, 2019
+
+Worked on GSD and PFS. I haven't touched my database and model for a while. Need to resume. 
