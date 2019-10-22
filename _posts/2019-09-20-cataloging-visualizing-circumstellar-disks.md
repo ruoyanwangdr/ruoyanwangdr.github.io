@@ -138,4 +138,4 @@ Worked on PFS.
 
 ### October 22, 2019
 
-Worked on GSD and PFS. I haven't touched my database and model for a while. Need to resume. 
+Worked on GSD and PFS. Changed font styles of input data to null and redesigned the table format to be Bootstrap 4. Still need to reconstruct the database and reboot the webpage. 
