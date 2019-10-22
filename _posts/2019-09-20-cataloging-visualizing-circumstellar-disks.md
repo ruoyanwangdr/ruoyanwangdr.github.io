@@ -127,3 +127,11 @@ Worked on BHP.
 ### October 19, 2019
 
 Coached a basketball practice lesson. 
+
+### October 20, 2019
+
+Finished BHP. 
+
+### October 21, 2019
+
+Worked on PFS. 
