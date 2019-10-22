@@ -21,17 +21,17 @@ Research Experiences
 * 2016-2018: Undergraduate Research
   * University of California, Santa Cruz 
   * Work Focus: Emission Spectra and Cloud Formation in the Coolest Brown Dwarfs and Planets. 
-  * Supervisor: Prof. Jonathan Fortney
+  * Supervisor: Jonathan Fortney
   
 * 2018-2019: Master Research
   * Leiden University
   * Work Focus: Detection of Transiting Exoplanets on the Bright End with MASCARA/TESS
-  * Supervisor: Prof. Ignas Snellen
+  * Supervisor: Ignas Snellen
 
 * 2019-2020: Master Research
   * Leiden University
-  * Work Focus: TBD
-  * Supervisor: TBD
+  * Work Focus: Cataloging and Visualizing Cradles of Planet Formation
+  * Supervisor: Matthew Kenworthy
 
 Skills
 ======
