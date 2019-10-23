@@ -139,3 +139,7 @@ Worked on PFS.
 ### October 22, 2019
 
 Worked on GSD and PFS. Changed font styles of input data to null and redesigned the table format to be Bootstrap 4. Still need to reconstruct the database and reboot the webpage. 
+
+### October 23, 2019
+
+Worked on GSD and PFS. 
