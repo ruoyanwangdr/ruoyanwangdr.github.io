@@ -143,3 +143,7 @@ Worked on GSD and PFS. Changed font styles of input data to null and redesigned 
 ### October 23, 2019
 
 Worked on GSD and PFS. 
+
+### October 24, 2019
+
+Spent my trying to work out a way to host the server. Either convert the app into a static site or redesign the whole thing to be static.
