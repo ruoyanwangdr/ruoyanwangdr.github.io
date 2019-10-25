@@ -147,3 +147,9 @@ Worked on GSD and PFS.
 ### October 24, 2019
 
 Spent my trying to work out a way to host the server. Either convert the app into a static site or redesign the whole thing to be static.
+
+
+## Week 6 
+### October 25, 2019
+
+Tried some simple js primitives. A cube can rotate now. 
