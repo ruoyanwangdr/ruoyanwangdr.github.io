@@ -153,3 +153,7 @@ Spent my trying to work out a way to host the server. Either convert the app int
 ### October 25, 2019
 
 Tried some simple js primitives. A cube can rotate now. 
+
+### October 26, 2019
+
+I had a feeling today that I would work on multiple tasks today since I had been procrastinating for too long, but everything turned out to be left untouched. 
