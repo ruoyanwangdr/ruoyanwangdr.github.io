@@ -108,7 +108,7 @@ The previous online table was very unstable when adding in large datasets. Very 
 
 ### October 15, 2019
 
-Spent most of my time on GSD and BHP assignments. 
+Spent most of my time on GSD and BPH assignments. 
 
 ### October 16, 2019
 
@@ -116,13 +116,13 @@ Met with Matt today and talked about the next step. Need some minor fixes for th
 
 ### October 17, 2019
 
-Worked on GSD, BHP, and PFS. 
+Worked on GSD, BPH, and PFS. 
 
 
 ## Week 5
 ### October 18, 2019
 
-Worked on BHP.
+Worked on BPH.
 
 ### October 19, 2019
 
@@ -130,7 +130,7 @@ Coached a basketball practice lesson.
 
 ### October 20, 2019
 
-Finished BHP. 
+Finished BPH. 
 
 ### October 21, 2019
 
@@ -157,3 +157,7 @@ Tried some simple js primitives. A cube can rotate now.
 ### October 26, 2019
 
 I had a feeling today that I would work on multiple tasks today since I had been procrastinating for too long, but everything turned out to be left untouched. 
+
+### October 27, 2019
+
+Worked on GSD, BPH, and PFS.
