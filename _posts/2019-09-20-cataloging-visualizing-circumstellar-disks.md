@@ -161,3 +161,7 @@ I had a feeling today that I would work on multiple tasks today since I had been
 ### October 27, 2019
 
 Worked on GSD, BPH, and PFS.
+
+### October 28, 2019
+
+Successfully reproduced the constructive solid geometry example in three.js, except the background plane not in grid. 
