@@ -165,3 +165,7 @@ Worked on GSD, BPH, and PFS.
 ### October 28, 2019
 
 Successfully reproduced the constructive solid geometry example in three.js, except the background plane not in grid. 
+
+### October 29, 2019
+
+Worked on BPH and GSD.
