@@ -169,3 +169,11 @@ Successfully reproduced the constructive solid geometry example in three.js, exc
 ### October 29, 2019
 
 Worked on BPH and GSD.
+
+### October 30, 2019
+
+Tried several distributions of the geometries in Three.js. Worked on BPH.
+
+### October 31, 2019
+
+Created a holo disk in addition to the original one. Worked on PFS and BPH. 
