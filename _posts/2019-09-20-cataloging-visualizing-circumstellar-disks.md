@@ -183,3 +183,7 @@ Created a holo disk in addition to the original one. Worked on PFS and BPH.
 ### November 1, 2019
 
 Met with Matt and discussed about web hosting. The next step is to add curvature to the disk and shade it. 
+
+### November 4, 2019
+
+Worked on GSD, BPH, and PFS.
