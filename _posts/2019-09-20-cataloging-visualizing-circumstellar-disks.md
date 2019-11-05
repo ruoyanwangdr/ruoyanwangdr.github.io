@@ -187,3 +187,7 @@ Met with Matt and discussed about web hosting. The next step is to add curvature
 ### November 4, 2019
 
 Worked on GSD, BPH, and PFS.
+
+### November 5, 2019
+
+Worked on GSD and PFS. 
