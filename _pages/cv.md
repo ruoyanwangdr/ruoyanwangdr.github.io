@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<u><a style="line-height: 1.5;" href="http://rywjhzd.github.io/files/CV_app.pdf"><span style="color: #333333;"><span style="font-size: medium;">Full CV in PDF format.</span></span></a></u>
+<u><a style="line-height: 1.5;" href="http://rywjhzd.github.io/files/CV_v1.pdf"><span style="color: #333333;"><span style="font-size: medium;">Full CV in PDF format.</span></span></a></u>
 
 
 {% include base_path %}
