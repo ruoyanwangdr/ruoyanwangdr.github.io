@@ -199,3 +199,9 @@ Worked on PFS.
 ### November 7, 2019
 
 Worked on PFS. Tried to cut meshes, but not working ideally. 
+
+
+## Week 8
+### November 8, 2019
+
+Discussed with Matt and Christian about the project. Will start importing disk data into the database. Also, figured out mesh cutting and color shading. 
