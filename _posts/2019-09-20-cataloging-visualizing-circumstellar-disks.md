@@ -195,3 +195,7 @@ Worked on GSD and PFS.
 ### November 6, 2019
 
 Worked on PFS. 
+
+### November 7, 2019
+
+Worked on PFS. Tried to cut meshes, but not working ideally. 
