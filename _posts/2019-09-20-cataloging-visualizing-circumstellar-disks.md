@@ -20,7 +20,7 @@ Had shawarma today at the market. Later spent the entire afternoon working on GS
 
 ### September 22, 2019
 
-Worked on PSF and BPH today. Started to learn how to create a database using Python from some videos and online tutorials. Still need to the research paper more. 
+Worked on PSF and BPH today. Started to learn how to create a database using Python from some videos and online tutorials. Still need to read the paper more. 
 
 ### September 23, 2019
 
@@ -46,7 +46,7 @@ As for astronomy, I learned a bit about classifications of young stellar objects
 ## Week 2
 ### September 27, 2019
 
-Technology can bridge up science with publics. I'm gonna learn Djanbo and Three.js in the next couple of weeks or so, in order to build a database and a playable 3D geometry. I can't wait to see this exciting result comes through. 
+Technology can bridge up science with publics. Gonna learn Djanbo and Three.js in the next couple of weeks or so, in order to build a database and a playable 3D geometry. Can't wait to see this exciting result comes through. 
 
 Also, Friday belongs to the basketball night. "Nothing but the bottom of the net" will summarize my performance. 
 
@@ -74,7 +74,7 @@ At least the sun came out today. To be frank, I could not see the point of putti
 ## Week 3
 ### October 7, 2019
 
-Watched several more tutorial videos for django. Also read some stuff for courseworks.
+Watched several more tutorial videos for django. Read some stuff for courseworks.
 
 ### October 8, 2019
 
@@ -86,7 +86,7 @@ Worked on my js model and GSD homework. Watched Ad Astra tonight with some other
 
 ### October 10, 2019
 
-I created a disk catalog web framework today. For now it contains an object name and its corresponding category. The admin interface has been also updated.
+Created a disk catalog web framework today. For now it contains an object name and its corresponding category. The admin interface has been also updated.
 
 
 ## Week 4
@@ -205,3 +205,7 @@ Worked on PFS. Tried to cut meshes, but not working ideally.
 ### November 8, 2019
 
 Discussed with Matt and Christian about the project. Will start importing disk data into the database. Also, figured out mesh cutting and color shading. 
+
+### November 10, 2019
+
+Recreated database models. Added import/export options in admin. Learned about making reporting tools based on xls. 
