@@ -209,3 +209,7 @@ Discussed with Matt and Christian about the project. Will start importing disk d
 ### November 10, 2019
 
 Recreated database models. Added import/export options in admin. Learned about making reporting tools based on xls. 
+
+### November 11, 2019
+
+Worked on GSD. 
