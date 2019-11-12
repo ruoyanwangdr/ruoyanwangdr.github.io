@@ -213,3 +213,7 @@ Recreated database models. Added import/export options in admin. Learned about m
 ### November 11, 2019
 
 Worked on GSD. 
+
+### November 12, 2019
+
+Worked on GSD and BPH. Had a discussion on possible improvements of the global waste management. 
