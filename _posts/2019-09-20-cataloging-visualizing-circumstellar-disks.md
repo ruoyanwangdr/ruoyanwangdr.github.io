@@ -1,26 +1,26 @@
 ---
 title: "Cataloging and Visualizing Cradles of Planet Formation - Reseach Blog"
 published: 2019-09-20
-excerpt: "A research blog about my project on building an online web database for catalogs of circumstellar disks and corresponding 3D models. "
+excerpt: "A research blog about my project on building an online web database for catalogs of circumstellar disks and corresponding 3D models reconstructed from 2D data. "
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks
 ---
 
 ## Week 1 -- Beginning of the project
 ### September 20, 2019
 
-Spent an hour today with Matt and Christian discussing the blueprint of this project. Feeling really excited. Got a 50-page paper to read ~~. Hopefully this year can go well. 
+Spent an hour today with Matt and Christian discussing the blueprint of this project. Feeling really excited. Hope this year will go well. 
 
 ![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-20.jpg)
 
 ### September 21, 2019
 
-Had shawarma today at the market. Later spent the entire afternoon working on GSD assignment. Video chatted with mom and dad. Gonna continue working on schoolworks. 
+Worked on GSD.
 
 ![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-21.jpg)
 
 ### September 22, 2019
 
-Worked on PSF and BPH today. Started to learn how to create a database using Python from some videos and online tutorials. Still need to read the paper more. 
+Worked on PSF and BPH. Started to learn how to create a database using Python from some videos and online tutorials. Still need to read the paper more. 
 
 ### September 23, 2019
 
@@ -28,7 +28,7 @@ I found that latex typing works is actually a pretty good way to save papers, as
 
 ### September 24, 2019
 
-Spent an hour and half discussing with a bunch of people about a separation of variables in a distribution function of galaxies involving potential and velocities. Have no idea how RNA and protein folding work but still need to figure it out. Let me count what's left: Ciesa 2011, learning to make a database, PSF, GSD, a travel journal, and fixing my bike! Ah I wish I could control time.
+Spent an hour and half discussing with a bunch of people about a separation of variables in a distribution function of galaxies involving potential and velocities. Have no idea how RNA and protein folding work but still need to figure it out. Let me count what's left: Ciesa 2011, learning to make a database, PSF, GSD, a travel journal, and fixing my bike!
 
 ### September 25, 2019
 
@@ -46,13 +46,11 @@ As for astronomy, I learned a bit about classifications of young stellar objects
 ## Week 2
 ### September 27, 2019
 
-Technology can bridge up science with publics. Gonna learn Djanbo and Three.js in the next couple of weeks or so, in order to build a database and a playable 3D geometry. Can't wait to see this exciting result comes through. 
-
-Also, Friday belongs to the basketball night. "Nothing but the bottom of the net" will summarize my performance. 
+Technology can bridge up science with publics. Gonna learn Djanbo and Three.js in the next couple of weeks or so, in order to build a database and a playable 3D geometry. 
 
 ### September 28, 2019
 
-Worked on GSD and watched tutorial for Django for a bit. I cooked beef ball ramen today and it was delicious! That sort of compensated this boring Saturday.
+Worked on GSD and watched tutorial for Django for a bit. I cooked beef ball ramen today and it was delicious. That sort of compensated this boring Saturday.
 
 ### September 29, 2019
 
@@ -217,3 +215,7 @@ Worked on GSD.
 ### November 12, 2019
 
 Worked on GSD and BPH. Had a discussion on possible improvements of the global waste management. 
+
+### November 13, 2019
+
+Worked on PFS and BPH. Discussed with friends about the animals in different countries and cultures and learned some very interesting facts. 
