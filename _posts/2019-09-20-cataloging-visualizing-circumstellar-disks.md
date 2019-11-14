@@ -1,7 +1,7 @@
 ---
 title: "Cataloging and Visualizing Cradles of Planet Formation - Reseach Blog"
 published: 2019-09-20
-excerpt: "A research blog about my project on building an online web database for catalogs of circumstellar disks and corresponding 3D models reconstructed from 2D data. "
+excerpt: "A research blog to track my master project at Leiden University. The project contains two parts: to build an online web database for catalogs of circumstellar disks and to design 3D disk models reconstructed from 2D data. "
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks
 ---
 
