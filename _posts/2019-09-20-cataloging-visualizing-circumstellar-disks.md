@@ -219,3 +219,7 @@ Worked on GSD and BPH. Had a discussion on possible improvements of the global w
 ### November 13, 2019
 
 Worked on PFS and BPH. Discussed with friends about the animals in different countries and cultures and learned some very interesting facts. 
+
+### November 14, 2019
+
+Redefined variables names in models.py to match with the requirements. Edited labels of rows and columns in .csv files to qualify for importing. Disk data imported successfully after several tests. The old table format Bootstrap4 misplaced the query button so replaced it by Material Design. Cleaned up the navigation bar. References will be linked manually later. Still need some minor fixes, but the database should be ready for now. 
