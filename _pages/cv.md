@@ -33,12 +33,9 @@ Research Experiences
   * Work Focus: Cataloging and Visualizing Cradles of Planet Formation
   * Supervisor: Matthew Kenworthy
 
-Skills
+Programming Languages
 ======
-* Data Analysis
-* Programming Languages
-  * Python
-  * Mathematica
+* Python, Javascript, Html
 
 Publications
 ======
