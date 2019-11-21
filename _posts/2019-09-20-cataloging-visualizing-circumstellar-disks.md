@@ -1,7 +1,7 @@
 ---
-title: "Cataloging and Visualizing Cradles of Planet Formation - Reseach Blog"
+title: "Cataloging and Visualizing Cradles of Planet Formation"
 published: 2019-09-20
-excerpt: "A research blog to track my master project at Leiden University. The project contains two parts: to build an online web database for catalogs of circumstellar disks and to design 3D disk models reconstructed from 2D data. "
+excerpt: "A research blog to track my master project at Leiden University. The project contains two parts: to build an online web database for a catalog of circumstellar disks and to design a 3D disk model reconstructed from 2D data. "
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks
 ---
 
@@ -241,3 +241,15 @@ Worked on BPH.
 ### November 18, 2019
 
 Worked on BPH and GSD. 
+
+### November 19, 2019
+
+Worked on GSD, BPH, and PFS. 
+
+### November 20, 2019
+
+Worked on GSD and BPH. Helped a friend on her proposal for MASCARA. 
+
+### November 21, 2019
+
+Prepared for finals. 
