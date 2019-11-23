@@ -193,7 +193,7 @@ Worked on GSD, BPH, and PFS.
 Worked on GSD and BPH. Helped a friend on her proposal for MASCARA. 
 
 ### November 21, 2019
-Prepared for finals. 
+Prepared for GSD and BPH presentations. 
 
 
 ## Week 10
@@ -201,4 +201,4 @@ Prepared for finals.
 Cut two spheres on top and at bottom of the cube in the middle to create curvatures. Replacing the cube with the disk and shading the color using the normal function would be the next step. 
 
 ### November 23, 2019
-Prepared for finals. 
+Worked on BPH.
