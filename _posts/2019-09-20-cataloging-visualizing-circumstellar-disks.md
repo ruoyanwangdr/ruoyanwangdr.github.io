@@ -198,5 +198,7 @@ Prepared for finals.
 
 ## Week 10
 ### November 22, 2019
-
 Cut two spheres on top and at bottom of the cube in the middle to create curvatures. Replacing the cube with the disk and shading the color using the normal function would be the next step. 
+
+### November 23, 2019
+Prepared for finals. 
