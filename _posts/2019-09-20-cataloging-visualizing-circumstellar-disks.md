@@ -202,3 +202,9 @@ Cut two spheres on top and at bottom of the cube in the middle to create curvatu
 
 ### November 23, 2019
 Worked on BPH.
+
+### November 24, 2019
+Prepared for final presentations.
+
+### November 25, 2019
+Worked on BPH and GSD presentations. 
