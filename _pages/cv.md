@@ -1,13 +1,12 @@
 ---
+layout: archive
 permalink: /cv/
 title: "CV"
 author_profile: true
-redirect_from:
-  - /resume
 ---
-[[Full CV]](http://rywjhzd.github.io/files/CV_v1.pdf)
-
 {% include base_path %}
+
+[[Full CV]](http://rywjhzd.github.io/files/CV_v1.pdf)
 
 Education
 ======
