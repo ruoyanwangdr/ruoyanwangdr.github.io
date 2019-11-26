@@ -1,10 +1,10 @@
 ---
-layout: archive
-title: "CV"
 permalink: /cv/
+title: "CV"
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv/
+  - /cv.html
 ---
 [[Full CV]](http://rywjhzd.github.io/files/CV_v1.pdf)
 
