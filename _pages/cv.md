@@ -14,7 +14,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics (Astrophysics), University of California, Santa Cruz, 2017
-* M.S. in Astronomy, Leiden University, 2020
+* M.S. in Astronomy, Leiden University, 2020 (expected)
 
 Research Experiences
 ======
