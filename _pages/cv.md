@@ -4,7 +4,6 @@ title: "CV"
 author_profile: true
 redirect_from:
   - /cv/
-  - /cv.html
 ---
 [[Full CV]](http://rywjhzd.github.io/files/CV_v1.pdf)
 
