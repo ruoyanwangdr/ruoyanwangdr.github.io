@@ -20,17 +20,17 @@ Research Experiences
 ======
 * 2016-2018: Undergraduate Research
   * University of California, Santa Cruz 
-  * Work Focus: Emission Spectra and Cloud Formation in the Coolest Brown Dwarfs and Planets. 
+  * Thesis: Atmospheric Models of Brown Dwarfs. 
   * Supervisor: Jonathan Fortney
   
 * 2018-2019: Master Research
   * Leiden University
-  * Work Focus: Detection of Transiting Exoplanets on the Bright End with MASCARA/TESS
+  * Thesis: Detection of Transiting Exoplanets on the Bright End with MASCARA/TESS
   * Supervisor: Ignas Snellen
 
 * 2019-2020: Master Research
   * Leiden University
-  * Work Focus: Cataloging and Visualizing Cradles of Planet Formation
+  * Thesis: Cataloging and Visualizing Cradles of Planet Formation
   * Supervisor: Matthew Kenworthy
 
 Programming Languages
@@ -57,5 +57,5 @@ Academic Experiences
   
 Awards
 ======
-* UC Regents Scholarships, 2013-2017
+* University of California Regents Scholarships, 2013-2017
 * Astronomy Master Scholarship, 2018-2020
