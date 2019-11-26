@@ -3,7 +3,7 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 redirect_from:
-  - /cv/
+  - /resume
 ---
 [[Full CV]](http://rywjhzd.github.io/files/CV_v1.pdf)
 
