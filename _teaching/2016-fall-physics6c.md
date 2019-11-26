@@ -2,7 +2,7 @@
 title: "PHYS 6C: Introductory Physics III (Fall 2016)"
 collection: teaching
 teaching_type: "Undergraduate course"
-permalink: /teaching/fall16-physics6c
+permalink: /experiences/fall16-physics6c
 institution: "UC Santa Cruz, Dept of Physics"
 date: 2016-12-02
 excerpt: "<i>Undergraduate course, MSI tutor</i><br/>
