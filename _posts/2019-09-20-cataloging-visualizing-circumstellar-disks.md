@@ -193,7 +193,7 @@ Worked on GSD, BPH, and PFS.
 Worked on GSD and BPH. Helped a friend on her proposal for MASCARA. 
 
 ### November 21, 2019
-Prepared for GSD and BPH presentations. 
+Worked on GSD and prepared for BPH presentation. 
 
 
 ## Week 10
@@ -204,7 +204,10 @@ Cut two spheres on top and at bottom of the cube in the middle to create curvatu
 Worked on BPH.
 
 ### November 24, 2019
-Prepared for final presentations.
+Prepared for finals.
 
 ### November 25, 2019
-Worked on BPH and GSD presentations. 
+Worked on GSD. 
+
+### November 26, 2019
+Prepared for BPH presentation and GSD paper review. Revised personal statement. 
