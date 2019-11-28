@@ -215,3 +215,5 @@ Prepared for BPH presentation and GSD paper review. Revised personal statement.
 ### November 27, 2019
 Prepared for BPH presentation. Tried to cut the meshes but code not working as expected. Will discuss with Matt about this.  
 
+### November 28, 2019
+It seemed that three.js contained two different csg packages and they didn't work interchangeably. 
