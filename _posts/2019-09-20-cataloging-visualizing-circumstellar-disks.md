@@ -211,3 +211,7 @@ Worked on GSD.
 
 ### November 26, 2019
 Prepared for BPH presentation and GSD paper review. Revised personal statement. 
+
+### November 27, 2019
+Prepared for BPH presentation. Tried to cut the meshes but code not working as expected. Will discuss with Matt about this.  
+
