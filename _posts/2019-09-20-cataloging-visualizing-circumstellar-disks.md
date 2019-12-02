@@ -219,7 +219,7 @@ Prepared for BPH presentation. Tried to cut the meshes but code not working as e
 It seemed that three.js contained two different csg packages and they didn't work interchangeably. 
 
 
-### Week 11
+## Week 11
 ### November 29, 2019
 Prepared for GSD paper review. Started BPH essay. 
 
