@@ -225,3 +225,6 @@ Prepared for GSD paper review. Started BPH essay.
 
 ### November 31, 2019
 Revised essay. 
+
+### December 2, 2019
+Discussed with Matt and decided to redesign the model with lathe geometry. Recreated a beta version using spline curve and lathe, with color being normal material. 
