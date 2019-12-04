@@ -231,3 +231,6 @@ Discussed with Matt and decided to redesign the model with lathe geometry. Recre
 
 ### December 3, 2019
 Prepared for GSD presentation. 
+
+### December 4, 2019
+Created a demo of solar system to see the effects of sky and floor backgrounds when zooming in and out. Started BPH research proposal. 
