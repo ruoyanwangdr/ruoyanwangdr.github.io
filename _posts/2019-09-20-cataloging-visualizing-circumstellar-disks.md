@@ -12,7 +12,6 @@ Spent an hour today with Matt and Christian discussing the blueprint of this pro
 
 ### September 21, 2019
 Worked on GSD.
-![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-21.jpg)
 
 ### September 22, 2019
 Worked on PSF and BPH. Started to learn how to create a database using Python from some videos and online tutorials. Still need to read the paper more. 
@@ -234,3 +233,11 @@ Prepared for GSD presentation.
 
 ### December 4, 2019
 Created a demo of solar system to see the effects of sky and floor backgrounds when zooming in and out. Started BPH research proposal. 
+
+### December 5, 2019
+Worked on BPH essay. 
+
+
+## Week 12
+### December 6, 2019
+Created a light source to illuminate the disk using pointlight/shadowmap. Inverted spline curve directions so that face normals could point outwards. Cleaned up deprecated codes. 
