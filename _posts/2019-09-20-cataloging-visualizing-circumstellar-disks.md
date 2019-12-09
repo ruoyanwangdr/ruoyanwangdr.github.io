@@ -241,3 +241,6 @@ Worked on BPH essay.
 ## Week 12
 ### December 6, 2019
 Created a light source to illuminate the disk using pointlight/shadowmap. Inverted spline curve directions so that face normals could point outwards. Cleaned up deprecated codes. 
+
+### December 9, 2019
+Prepared for AFS final. 
