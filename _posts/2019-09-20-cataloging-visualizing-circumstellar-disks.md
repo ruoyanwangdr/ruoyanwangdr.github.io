@@ -223,7 +223,7 @@ It seemed that three.js contained two different csg packages and they didn't wor
 Prepared for GSD paper review. Started BPH essay. 
 
 ### November 31, 2019
-Revised essay. 
+Revised statements. 
 
 ### December 2, 2019
 Discussed with Matt and decided to redesign the model with lathe geometry. Recreated a beta version using spline curve and lathe, with color being normal material. 
@@ -244,3 +244,6 @@ Created a light source to illuminate the disk using pointlight/shadowmap. Invert
 
 ### December 9, 2019
 Prepared for AFS final. 
+
+### December 10, 2019
+Prepared for AFS final. Worked on BPH final essay. 
