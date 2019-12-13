@@ -246,4 +246,10 @@ Created a light source to illuminate the disk using pointlight/shadowmap. Invert
 Prepared for AFS final. 
 
 ### December 10, 2019
-Prepared for AFS final. Worked on BPH final essay. 
+Prepared for AFS final. Worked on BPH essay. 
+
+### December 11, 2019
+Prepared for AFS final. Worked on BPH essay. 
+
+### December 12, 2019
+Collected the number of normals. Tested light switches: no obvious effects observed, need further investigations. Calculated polarized intensities. Next step is to adjust colors based on the angle incidence. 
