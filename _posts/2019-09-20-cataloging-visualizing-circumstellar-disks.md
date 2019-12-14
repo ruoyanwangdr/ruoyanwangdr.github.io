@@ -253,3 +253,8 @@ Prepared for AFS final. Worked on BPH essay.
 
 ### December 12, 2019
 Collected the number of normals. Tested light switches: no obvious effects observed, need further investigations. Calculated polarized intensities. Next step is to adjust colors based on the angle incidence. 
+
+
+## Week 13
+### December 13, 2019
+Weekly meeting postponed to Wednesday, Dec 18. 
