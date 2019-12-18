@@ -39,19 +39,20 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks / Presentations
+Presentations/Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Academic Experiences
+Experiences
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Awards
+Awards/Honors/Scholarships
 ======
 * University of California Regents Scholarships, 2013-2017
+* Undergraduate Dean's Honor 2013, 2015
 * Astronomy Master Scholarship, 2018-2020
