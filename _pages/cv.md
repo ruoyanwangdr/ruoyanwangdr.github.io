@@ -54,5 +54,5 @@ Experiences
 Awards/Honors/Scholarships
 ======
 * University of California Regents Scholarships, 2013-2017
-* Undergraduate Dean's Honor 2013, 2015
-* Astronomy Master Scholarship, 2018-2020
+* Undergraduate Dean's Honor, 2013, 2015
+* Astronomy Master Scholarship, 2018, 2019
