@@ -258,3 +258,12 @@ Collected the number of normals. Tested light switches: no obvious effects obser
 ## Week 13
 ### December 13, 2019
 Weekly meeting postponed to Wednesday, Dec 18. 
+
+### December 16, 2019
+Prepared for AFS finals.
+
+### December 17, 2019
+Prepared for AFS finals.
+
+### December 18, 2019
+Recollected face normals with an efficient method. Changed the disk color back to while for further color shading. Modified color of the disk to a function of camera positions. Now rotating the camera will render different colors. 
