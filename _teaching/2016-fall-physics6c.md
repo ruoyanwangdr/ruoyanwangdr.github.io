@@ -2,9 +2,9 @@
 title: "PHYS 6C: Introductory Physics III (Fall 2016)"
 collection: teaching
 teaching_type: "Undergraduate course"
-permalink: /experiences/fall16-physics6c
+permalink: /experiences/2016-fall-physics6c
 institution: "UC Santa Cruz, Dept of Physics"
-date: 2016-12-02
+date: 2016-09-22
 excerpt: "<i>Undergraduate course, MSI tutor</i><br/>
 Introduction to electricity and magnetism. Elementary circuits; Maxwell's equations; electromagnetic radiation; interference and polarization of light."
 ---
