@@ -267,3 +267,6 @@ Prepared for AFS finals.
 
 ### December 18, 2019
 Met with Matt today and figured out some stuff together. Recollected face normals with an efficient method. Changed the disk color back to while for further color shading. Modified color of the disk to a function of camera positions. Now rotating the camera will render different colors. 
+
+### December 19, 2019
+Worked on BPH essay. 
