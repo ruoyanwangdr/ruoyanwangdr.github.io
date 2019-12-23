@@ -232,7 +232,7 @@ Discussed with Matt and decided to redesign the model with lathe geometry. Recre
 Prepared for GSD presentation. 
 
 ### December 4, 2019
-Created a demo of solar system to see the effects of sky and floor backgrounds when zooming in and out. Started BPH research proposal. 
+Created a demo of solar system to see the effects of sky and floor backgrounds when zooming in and out. Started BPH final proposal. 
 
 ### December 5, 2019
 Worked on BPH essay. 
@@ -269,4 +269,12 @@ Prepared for AFS finals.
 Met with Matt today and figured out some stuff together. Recollected face normals with an efficient method. Changed the disk color back to while for further color shading. Modified color of the disk to a function of camera positions. Now rotating the camera will render different colors. 
 
 ### December 19, 2019
+Worked on BPH essay. 
+
+
+## Week 14
+### December 20, 2019
+Worked on BPH essay. Started to read for GSD finals. 
+
+### December 23, 2019
 Worked on BPH essay. 
