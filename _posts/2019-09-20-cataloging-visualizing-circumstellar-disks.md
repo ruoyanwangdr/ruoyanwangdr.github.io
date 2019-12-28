@@ -278,3 +278,6 @@ Worked on BPH essay. Started to read for GSD finals.
 
 ### December 23, 2019
 Worked on BPH essay. 
+
+### December 28, 2019
+Worked on BPH essay. Prepared for GSD finals. 
