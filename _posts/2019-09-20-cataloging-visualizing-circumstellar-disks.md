@@ -281,3 +281,6 @@ Worked on BPH essay.
 
 ### December 28, 2019
 Worked on BPH essay. Prepared for GSD finals. 
+
+### December 29, 2019
+Read documents about three.js. 
