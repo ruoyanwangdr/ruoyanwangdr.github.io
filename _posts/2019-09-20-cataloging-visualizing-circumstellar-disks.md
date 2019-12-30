@@ -117,7 +117,7 @@ Spent my trying to work out a way to host the server. Either convert the app int
 Tried some simple js primitives. A cube can rotate now. 
 
 ### October 26, 2019
-I had a feeling today that I would work on multiple tasks today since I had been procrastinating for too long, but everything turned out to be left untouched. 
+Procrastination. 
 
 ### October 27, 2019
 Worked on GSD, BPH, and PFS.
@@ -137,7 +137,7 @@ Created a holo disk in addition to the original one. Worked on PFS and BPH.
 
 ## Week 7
 ### November 1, 2019
-Met with Matt and discussed about web hosting. The next step is to add curvature to the disk and shade it. 
+Met with Matt and discussed web hosting. The next step is to add curvature to the disk and shade it. 
 
 ### November 4, 2019
 Worked on GSD, BPH, and PFS.
@@ -284,3 +284,6 @@ Worked on BPH essay. Prepared for GSD finals.
 
 ### December 29, 2019
 Read documents about three.js. 
+
+### December 30, 2019
+Spent the entire afternoon trying to fix the compatibility of a .exe file on OSX. 
