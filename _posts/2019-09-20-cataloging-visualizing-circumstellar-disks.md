@@ -287,3 +287,6 @@ Read documents about three.js.
 
 ### December 30, 2019
 Spent the entire afternoon trying to fix the compatibility of a .exe file on OSX. 
+
+### December 31, 2019
+Finished BPH first draft. Will polish up and submit shortly.  
