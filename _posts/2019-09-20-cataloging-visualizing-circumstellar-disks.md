@@ -279,6 +279,8 @@ Worked on BPH essay. Started to read for GSD finals.
 ### December 23, 2019
 Worked on BPH essay. 
 
+
+## Week 15
 ### December 28, 2019
 Worked on BPH essay. Prepared for GSD finals. 
 
@@ -290,3 +292,6 @@ Spent the entire afternoon trying to fix the compatibility of a .exe file on OSX
 
 ### December 31, 2019
 Finished BPH first draft. Will polish up and submit shortly.  
+
+### January 1, 2020
+Read GSD paper and prepared for final exam oral questions. 
