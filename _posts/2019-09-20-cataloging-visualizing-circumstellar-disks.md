@@ -295,3 +295,8 @@ Finished BPH first draft. Will polish up and submit shortly.
 
 ### January 1, 2020
 Read GSD paper and prepared for final exam oral questions. 
+
+
+## Week 16
+### January 3, 2020
+BPH final draft finished and submitted. Going for a holiday break. 
