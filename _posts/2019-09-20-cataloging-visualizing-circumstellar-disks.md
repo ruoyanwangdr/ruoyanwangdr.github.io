@@ -299,4 +299,14 @@ Read GSD paper and prepared for final exam oral questions.
 
 ## Week 16
 ### January 3, 2020
-BPH final draft finished and submitted. Going for a holiday break. 
+BPH final draft finished and submitted. 
+
+
+## Week 17
+### January 4 - 13, 2020
+Vacation
+
+
+## Week 18
+### January 13, 2020
+Prepared for GSD finals. Reread project documents to resume the work. 
