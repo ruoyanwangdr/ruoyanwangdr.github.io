@@ -310,3 +310,12 @@ Vacation
 ## Week 18
 ### January 13, 2020
 Prepared for GSD finals. Reread project documents to resume the work. 
+
+### January 14, 2020
+Prepared for GSD. 
+
+### January 15, 2020
+Started to prepare for PFS final.
+
+### January 16, 2020
+Read relevant papers about AGNs. 
