@@ -303,8 +303,8 @@ BPH final draft finished and submitted.
 
 
 ## Week 17
-### January 4 - 13, 2020
-Vacation
+### January 4 - 12, 2020
+Vacation.
 
 
 ## Week 18
@@ -318,4 +318,9 @@ Prepared for GSD.
 Started to prepare for PFS final.
 
 ### January 16, 2020
-Read relevant papers about AGNs. 
+Read relevant papers about protoplanetary disks and AGNs for the project and GSD. 
+
+
+## Week 19
+### January 17, 2020
+Redefined color vector to reduce some computational expenses. Changed disk material from Basic to Physical so that it can cast shadow properly. 
