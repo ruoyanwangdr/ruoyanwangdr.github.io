@@ -1,6 +1,7 @@
 ---
 title: "Contact"
 author_profile: true
+permalink: /contact/
 ---
 
 Contact information is below, including email and various web services. 
