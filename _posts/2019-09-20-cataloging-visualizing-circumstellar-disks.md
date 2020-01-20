@@ -49,8 +49,10 @@ Spent a hell long time on an integral. I might need to retake some math classes.
 Graphically, dark color backgrounds look cooler to me. Learning a new programming language really takes some efforts. How to get better? We are talking about PRACTICE man!
 
 ### October 2, 2019
-At least the sun came out today. To be frank, I could not see the point of putting peanut butter sauce into everything. Relief of Leiden is tomorrow. I am going for a vacation. 
+At least the sun came out today. To be frank, I could not see the point of putting peanut butter sauce into everything. Relief of Leiden is tomorrow. Going for a short vacation. 
 
+### October 3 - 6, 2019
+Vacation.
 
 ## Week 3
 ### October 7, 2019
@@ -60,7 +62,7 @@ Watched several more tutorial videos for Django. Read some stuff for courseworks
 Did some grad app researches. 
 
 ### October 9, 2019
-Worked on my js model and GSD homework. Watched Ad Astra tonight with some other Sterrewacht people. The lines are good but the plot does not make sense. 
+Worked on disk model and GSD. Watched Ad Astra tonight with some other Sterrewacht people. The lines are good but the plot does not make sense. 
 
 ### October 10, 2019
 Created a disk catalog web framework today. For now it contains an object name and its corresponding category. The admin interface has been also updated.
@@ -324,3 +326,6 @@ Read relevant papers about protoplanetary disks and AGNs for the project and GSD
 ## Week 19
 ### January 17, 2020
 Redefined color vector to reduce some computational expenses. Changed disk material from Basic to Physical so that it can cast shadow properly. 
+
+### January, 20, 2020
+Completed GSD. Will return home for two weeks. 
