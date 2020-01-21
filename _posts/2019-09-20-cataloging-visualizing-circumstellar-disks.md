@@ -328,4 +328,7 @@ Read relevant papers about protoplanetary disks and AGNs for the project and GSD
 Redefined color vector to reduce some computational expenses. Changed disk material from Basic to Physical so that it can cast shadow properly. 
 
 ### January, 20, 2020
-Completed GSD. Will return home for two weeks. 
+Completed GSD.
+
+### January, 21, 2020
+Prepared for PFS final. 
