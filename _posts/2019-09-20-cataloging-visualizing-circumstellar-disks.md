@@ -335,3 +335,6 @@ Prepared for PFS final.
 
 ### January 22, 2020
 Added roughness in disk to create fully diffuse material. Calculated light polarization emitted from the central star. A problem is that the number of vertices mismatches with that of faces, leading to only half the disk polarized. Will fix that later. 
+
+### January, 23, 2020
+Replaced vertices number by face normals to create full polarization. Distinct borders between each disk sector emerged. Working on to make transitions smooth. 
