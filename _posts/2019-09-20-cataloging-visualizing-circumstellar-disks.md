@@ -338,3 +338,8 @@ Added roughness in disk to create fully diffuse material. Calculated light polar
 
 ### January, 23, 2020
 Replaced vertices number by face normals to create full polarization. Distinct borders between each disk sector emerged. Working on to make transitions smooth. 
+
+
+## Week 20
+### January 24, 2020
+Reunion with Jonathan after a year and half. Talked a lot about how everything went since then. Grateful and fortunate to have him as my undergrad advisor. Lunar Spring Festival is today and Happy New Year! 
