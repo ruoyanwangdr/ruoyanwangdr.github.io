@@ -343,3 +343,15 @@ Replaced vertices number by face normals to create full polarization. Distinct b
 ## Week 20
 ### January 24, 2020
 Reunion with Jonathan, probably the coolest astrophysicist, after leaving Santa Cruz for over a year. Talked a lot about how everything went since then. Grateful and fortunate to have him as my undergrad advisor. Lunar Spring Festival is today and Happy New Year! 
+
+### January 27, 2020
+Grad app.
+
+### January 28, 2020
+Prepared for PFS final.
+
+### January 29, 2020
+Prepared for PFS final. Worked on writing sample. 
+
+### January 30, 2020
+Completed PFS. 
