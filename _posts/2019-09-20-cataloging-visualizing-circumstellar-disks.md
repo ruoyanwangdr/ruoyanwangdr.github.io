@@ -355,3 +355,8 @@ Prepared for PFS final. Worked on writing sample.
 
 ### January 30, 2020
 Completed PFS. 
+
+
+## Week 21
+### January 31, 2020
+Tried to add a guidance panel for users. 
