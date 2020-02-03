@@ -360,3 +360,6 @@ Completed PFS.
 ## Week 21
 ### January 31, 2020
 Tried to add a guidance panel for users. 
+
+### February 3, 2020
+Added GUI. Central star color could be changed from GUI. Attempted to change intensity and distance, unsuccessful still. Color casting from central star also not displayed on disk. 
