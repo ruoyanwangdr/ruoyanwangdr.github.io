@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruoyan Wang's home page"
 title_separator          : "-"
 name                     : &name "Ruoyan Wang"
-description              : &description "astrophysics student<br/>planetary scientist"
+description              : &description "graduate student<br/>star and planet"
 url                      : https://rywjhzd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rywjhzd/rywjhzd.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ruoyan Wang"
   avatar           : "profile.jpg"
-  bio              : "Astrophysics graduate student at <a style='color: black;' href='https://www.universiteitleiden.nl/en/science/astronomy'>Leiden Observatory</a>; BSc and Undergraduate research assistant at <a style='color: black;' href='https://www.astro.ucsc.edu/'>UC Santa Cruz</a>."
+  bio              : "Astrophysics graduate student at <a style='color: black;' href='https://www.universiteitleiden.nl/en/science/astronomy'>Leiden Observatory</a>; BSc and Undergraduate researcher at <a style='color: black;' href='https://www.astro.ucsc.edu/'>UC Santa Cruz</a>."
   location         : "Leiden, Netherlands"
   employer         :
   googlescholar    :
@@ -95,7 +95,7 @@ author:
   github           : "rywjhzd"
   google_plus      :
   keybase          :
-  instagram        : 
+  instagram        :
   lastfm           :
   linkedin         : "ruoyan-wang-0a55b9191"
   orcid            :
