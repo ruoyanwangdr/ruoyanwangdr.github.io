@@ -366,3 +366,6 @@ Added GUI. Central star color could be changed from GUI. Attempted to change int
 
 ### February 4, 2020
 Added ArrowHelper to visualize the camera orientation. Direction vector normalized. Dot product with FaceHelper to generate polarizer. New classes will begin tomorrow. Hope all is well in the new semester. 
+
+### February 5, 2020
+Had the first lecture of APS today. Met some cool people. 
