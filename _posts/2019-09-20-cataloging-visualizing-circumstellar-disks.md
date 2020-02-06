@@ -369,3 +369,6 @@ Added ArrowHelper to visualize the camera orientation. Direction vector normaliz
 
 ### February 5, 2020
 Had the first lecture of APS today. Met some cool people. 
+
+### February 6, 2020
+Attempted to multiply arrow-up with face normals. Still need to figure out whether the calculation should be within the loop or not. 
