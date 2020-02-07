@@ -372,3 +372,8 @@ Had the first lecture of APS today. Met some cool people.
 
 ### February 6, 2020
 Attempted to multiply arrow-up with face normals. Still need to figure out whether the calculation should be within the loop or not. 
+
+
+## Week 22
+### February 7, 2020
+Polarized the disk light by dot product of up vectors and face normals.
