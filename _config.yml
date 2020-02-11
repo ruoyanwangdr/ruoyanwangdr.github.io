@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Ruoyan Wang"
   avatar           : "profile.jpg"
-  bio              : "Astrophysics graduate student at <a style='color: black;' href='https://www.universiteitleiden.nl/en/science/astronomy'>Leiden Observatory</a>; BSc and Undergraduate researcher at <a style='color: black;' href='https://www.astro.ucsc.edu/'>UC Santa Cruz</a>."
+  bio              : "Astronomy graduate student at <a style='color: black;' href='https://www.universiteitleiden.nl/en/science/astronomy'>Leiden Observatory</a>; BSc in astrophysics and undergraduate researcher at <a style='color: black;' href='https://www.astro.ucsc.edu/'>University of California, Santa Cruz</a>."
   location         : "Leiden, Netherlands"
   employer         :
   googlescholar    :
@@ -253,7 +253,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
