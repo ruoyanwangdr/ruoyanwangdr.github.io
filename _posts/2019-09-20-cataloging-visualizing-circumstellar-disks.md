@@ -368,7 +368,7 @@ Added GUI. Central star color could be changed from GUI. Attempted to change int
 Added ArrowHelper to visualize the camera orientation. Direction vector normalized. Dot product with FaceHelper to generate polarizer. New classes will begin tomorrow. Hope all is well in the new semester. 
 
 ### February 5, 2020
-Had the first lecture of APS today. Met some cool people. 
+First lecture of APS. Met some cool people. 
 
 ### February 6, 2020
 Attempted to multiply arrow-up with face normals. Still need to figure out whether the calculation should be within the loop or not. 
@@ -376,4 +376,13 @@ Attempted to multiply arrow-up with face normals. Still need to figure out wheth
 
 ## Week 22
 ### February 7, 2020
-Polarized the disk light by dot product of up vectors and face normals.
+Polarized the disk light by dot product of up vectors and face normals. First lecture of COP.
+
+### February 8, 2020
+Read more about disk polarization.
+
+### February 10, 2020
+Worked on COP.
+
+### February 11, 2020
+Prepared for interview. 
