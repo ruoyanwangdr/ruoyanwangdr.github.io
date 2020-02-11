@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I'm Ruoyan, a second-year astrophysics graduate student at Leiden University. My research interests focus on all aspects of stellar and planetary sciences. 
+Greetings! I'm Ruoyan, a second-year astrophysics graduate student at Leiden University. My research interests cover all aspects of stellar and planetary sciences. 
 
 Currently I work on cataloging and visualizing circumsstellar disks with [Prof. Matthew Kenworthy](https://home.strw.leidenuniv.nl/~kenworthy/). It begins with designing an online
 database containing observational and published results of scattered light imaging of these disks,
