@@ -386,3 +386,6 @@ Worked on COP.
 
 ### February 11, 2020
 Prepared for interview. 
+
+### February 12, 2020
+Read about Jupiter's magnetosphere and plasma physics. 
