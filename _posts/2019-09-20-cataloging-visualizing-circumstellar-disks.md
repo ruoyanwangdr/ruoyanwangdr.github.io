@@ -389,3 +389,6 @@ Prepared for interview.
 
 ### February 12, 2020
 Read about Jupiter's magnetosphere and plasma physics. 
+
+### February 13, 2020
+Reconstructed the disk model in a more organized way. Separated a window for global view. Adjusted global camera position. Added GUI panel for central point light and camera. Optimized the render function. 
