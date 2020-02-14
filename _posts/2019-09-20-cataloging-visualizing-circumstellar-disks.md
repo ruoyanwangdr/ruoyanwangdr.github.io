@@ -392,3 +392,8 @@ Read about Jupiter's magnetosphere and plasma physics.
 
 ### February 13, 2020
 Reconstructed the disk model in a more organized way. Separated a window for global view. Adjusted global camera position. Added GUI panel for central point light and camera. Optimized the render function. 
+
+
+## Week 23
+### February 14, 2020
+Worked on COP.
