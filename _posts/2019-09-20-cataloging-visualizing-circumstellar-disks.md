@@ -397,3 +397,6 @@ Reconstructed the disk model in a more organized way. Separated a window for glo
 ## Week 23
 ### February 14, 2020
 Worked on COP.
+
+### February 17, 2020
+Added a function to compute face centroid. Recalculated polarization with a cross product between the centroid position vector from the disk center and the face normal of each facet. Reset the face color to a scalar. Changed the disk material to reflect point light. 
