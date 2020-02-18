@@ -402,3 +402,6 @@ Worked on COP.
 
 ### February 17, 2020
 Added a function to compute face centroid. Recalculated polarization with a cross product between the centroid position vector from the disk center and the face normal of each facet. Reset the face color to a scalar. Changed the disk material to reflect point light. 
+
+### February 18, 2020
+Optimized camera perspective. Corrected disk parameters. Added comments. Updated project description. 
