@@ -4,6 +4,8 @@ published: 2019-09-20
 excerpt: "A research blog to track my master project at Leiden University. The project contains two parts: to build an online web database for a catalog of circumstellar disks and to design a 3D disk model reconstructed from 2D data. "
 permalink: /posts/2019/09/cataloging-visualizing-circumstellar-disks
 ---
+[Disk Visualization](https://htmlpreview.github.io/?https://github.com/rywjhzd/Cataloging-and-Visualising-Cradles-of-Planet-Formation/blob/master/diskmodel/disk_model_test.html)
+
 
 ## Week 1 -- Beginning of the project
 ### September 20, 2019
