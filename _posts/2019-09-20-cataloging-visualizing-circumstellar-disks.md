@@ -405,3 +405,6 @@ Added a function to compute face centroid. Recalculated polarization with a cros
 
 ### February 18, 2020
 Optimized camera perspective. Corrected disk parameters. Added comments. Updated project description. 
+
+### February 19, 2020
+Interview day.
