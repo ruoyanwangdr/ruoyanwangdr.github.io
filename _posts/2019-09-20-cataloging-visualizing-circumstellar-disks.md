@@ -408,3 +408,6 @@ Optimized camera perspective. Corrected disk parameters. Added comments. Updated
 
 ### February 19, 2020
 Interview day.
+
+### February 20, 2020
+Worked on COP.
