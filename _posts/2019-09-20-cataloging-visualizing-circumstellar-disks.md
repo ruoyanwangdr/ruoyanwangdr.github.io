@@ -411,3 +411,8 @@ Interview day.
 
 ### February 20, 2020
 Worked on COP.
+
+
+## Week 24
+### February 21, 2020
+Worked on COP.
