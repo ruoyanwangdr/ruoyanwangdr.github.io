@@ -418,4 +418,10 @@ Worked on COP.
 Worked on COP.
 
 ### February 24, 2020
-Read for disks.
+Read about scattering phase function of disks.
+
+### February 25, 2020
+Worked on COP.
+
+### February 26, 2020
+Worked on AFS. 
