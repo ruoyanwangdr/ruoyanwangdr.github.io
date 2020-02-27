@@ -425,3 +425,6 @@ Worked on COP.
 
 ### February 26, 2020
 Worked on AFS. 
+
+### February 27, 2020
+Milli et al. (2017) stated that their scattering phase function was derived based on two assumptions. One of them was the azimuthally uniform dust density distribution and identical dust properties. Explanations were that only the shape of SPF would contribute to any azimuthal brightness variation along the ring, after correcting for the distance between the scatterers and the star, the ADI flux loss and the convolution by the PSF. Not quite sure the reason behind. 
