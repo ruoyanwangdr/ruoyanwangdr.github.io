@@ -428,3 +428,8 @@ Worked on AFS.
 
 ### February 27, 2020
 Milli et al. (2017) stated that their scattering phase function was derived based on two assumptions. One of them was the azimuthally uniform dust density distribution and identical dust properties. Explanations were that only the shape of SPF would contribute to any azimuthal brightness variation along the ring, after correcting for the distance between the scatterers and the star, the ADI flux loss and the convolution by the PSF. Not quite sure the reason behind. 
+
+
+### Week 25
+### February 28, 2020
+Matt explained to me the question I proposed. If the disk is uniformly distributed with identical dust properties, the only reason that the disk looks differently in brightness is isotropy. It's the shape of SPF, rather than the disk. Now this is clear. The next step is to test the Henyey-Greenstein scattering function, recreate the disk to a ring, and implement the function to the new ring. 
