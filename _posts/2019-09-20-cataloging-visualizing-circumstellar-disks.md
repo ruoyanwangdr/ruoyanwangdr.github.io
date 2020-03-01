@@ -433,3 +433,9 @@ Milli et al. (2017) stated that their scattering phase function was derived base
 ### Week 25
 ### February 28, 2020
 Matt explained to me the question I proposed. If the disk is uniformly distributed with identical dust properties, the only reason that the disk looks differently in brightness is isotropy. It's the shape of SPF, rather than the disk. Now this is clear. The next step is to test the Henyey-Greenstein scattering function, recreate the disk to a ring, and implement the function to the new ring. 
+
+### February 29, 2020
+Worked on SPF.
+
+### March 1, 2020
+Worked on COP.
