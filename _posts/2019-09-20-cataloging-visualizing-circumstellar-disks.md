@@ -439,3 +439,6 @@ Worked on SPF.
 
 ### March 1, 2020
 Worked on COP.
+
+### March 2, 2020
+Worked on AFS.
