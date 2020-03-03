@@ -442,3 +442,6 @@ Worked on COP.
 
 ### March 2, 2020
 Worked on AFS.
+
+### March 3, 2020
+Read about Henyey-Greenstein scattering function and more about other scattering phase functions. 
