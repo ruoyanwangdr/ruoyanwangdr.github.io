@@ -445,3 +445,6 @@ Worked on AFS.
 
 ### March 3, 2020
 Read about Henyey-Greenstein scattering function and more about other scattering phase functions. 
+
+### March 4, 2020
+Plotted Henyey-Greenstein scattering function with g from -0.9 to 0.9 in 0.1 step and phi from 0 to 2pi. Replaced the lathe-geometry disk with an elliptical ring. 
