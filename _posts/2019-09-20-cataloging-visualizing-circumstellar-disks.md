@@ -448,3 +448,11 @@ Read about Henyey-Greenstein scattering function and more about other scattering
 
 ### March 4, 2020
 Plotted Henyey-Greenstein scattering function with g from -0.9 to 0.9 in 0.1 step and phi from 0 to 2pi. Replaced the lathe-geometry disk with an elliptical ring. 
+
+### March 5, 2020
+Switched core scripts to min.js for faster web loading. Created a .py version of H-G. Trivial scripts cleanup.
+
+
+## Week 26
+### March 6, 2020
+The current ring makes use of a tube geometry with an elliptical path. A problem is that the edge is not flat but round. The ring geometry in three.js cannot create an elliptical shape. Attempted to draw an ellipse and reveal it using the extrude geometry. 
