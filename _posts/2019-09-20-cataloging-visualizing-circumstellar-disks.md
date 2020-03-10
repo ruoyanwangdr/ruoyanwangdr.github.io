@@ -462,3 +462,6 @@ Worked on COP.
 
 ### March 9, 2020
 Prepared for SPF presentation. 
+
+### March 10, 2020
+Worked on COP. 
