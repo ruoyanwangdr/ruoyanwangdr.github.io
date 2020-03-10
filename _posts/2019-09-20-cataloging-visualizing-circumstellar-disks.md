@@ -456,3 +456,9 @@ Switched core scripts to min.js for faster web loading. Created a .py version of
 ## Week 26
 ### March 6, 2020
 The current ring makes use of a tube geometry with an elliptical path. A problem is that the edge is not flat but round. The ring geometry in three.js cannot create an elliptical shape. Attempted to draw an ellipse and reveal it using the extrude geometry. 
+
+### March 7, 2020
+Worked on COP.
+
+### March 9, 2020
+Prepared for SPF presentation. 
