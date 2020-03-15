@@ -476,3 +476,6 @@ Read for SPF.
 ## Week 27
 ### March 13, 2020
 The school has paused all activities due to the spread of COVID-19. All personnels shall work from home from now until March 31. Teaching activities will be held online. Quarantines begin now. 
+
+### March 15, 2020
+Worked on COP. 
