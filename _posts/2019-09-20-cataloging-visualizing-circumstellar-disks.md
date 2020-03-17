@@ -467,7 +467,7 @@ Prepared for SPF presentation.
 Worked on COP. 
 
 ### March 11, 2020
-Discussed with Met what to do in next couple of weeks: 1) Create an ellipse using Lathe geometry 2) Calculate the scattering angle between the observing vector(camera.getWorldDirection) and each facet on disk(disk.geometry.faces[i].centroid) 3) For g=0.2, calculate H-G for each facet.
+Discussed with Met what to do in next couple of weeks: 1) Create an ellipse using Lathe geometry 2) Calculate the scattering angle between the observing vector(camera.getWorldDirection) and each facet of the disk(disk.geometry.faces\[i\].centroid) 3) For g=0.2, calculate H-G for each facet.
 
 ### March 12, 2020
 Read for SPF.
