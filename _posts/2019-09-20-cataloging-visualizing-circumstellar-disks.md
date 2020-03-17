@@ -467,7 +467,7 @@ Prepared for SPF presentation.
 Worked on COP. 
 
 ### March 11, 2020
-Worked on AFS. 
+Discussed with Met what to do in next couple of weeks: 1) Create an ellipse using Lathe geometry 2) Calculate the scattering angle between the observing vector(camera.getWorldDirection) and each facet on disk(disk.geometry.faces[i].centroid) 3) For g=0.2, calculate H-G for each facet.
 
 ### March 12, 2020
 Read for SPF.
@@ -479,3 +479,9 @@ The school has paused all activities due to the spread of COVID-19. All personne
 
 ### March 15, 2020
 Worked on COP. 
+
+### March 16, 2020
+Really difficult to concentrate on working while at home. Read a little bit about massive pre-main sequence stars. 
+
+### March 17, 2020
+Talked with Prof. Thomas Stallard about researches on aurorae and upper atmospheres of giant planets, using imaging and spectral analysis. 
