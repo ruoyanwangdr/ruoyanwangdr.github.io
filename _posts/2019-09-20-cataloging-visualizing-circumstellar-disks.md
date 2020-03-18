@@ -485,3 +485,6 @@ Really difficult to concentrate on working while at home. Read a little bit abou
 
 ### March 17, 2020
 Talked with Prof. Thomas Stallard about researches on aurorae and upper atmospheres of giant planets, using imaging and spectral analysis. 
+
+### March 18, 2020
+Worked on COP.
