@@ -473,7 +473,7 @@ Discussed with Met what to do in next couple of weeks: 1) Create an ellipse usin
 Read for SPF.
 
 
-## Week 27
+## Week 27 -- Start working from home
 ### March 13, 2020
 The school has paused all activities due to the spread of COVID-19. All personnels shall work from home from now until March 31. Teaching activities will be held online. Quarantines begin now. 
 
@@ -488,3 +488,6 @@ Talked with Prof. Thomas Stallard about researches on aurorae and upper atmosphe
 
 ### March 18, 2020
 Worked on COP.
+
+### March 19, 2020
+Constructed elliptical ring. Calculated scattering angle. 
