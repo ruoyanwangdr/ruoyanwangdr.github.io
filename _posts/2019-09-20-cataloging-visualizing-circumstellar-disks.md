@@ -491,3 +491,8 @@ Worked on COP.
 
 ### March 19, 2020
 Constructed elliptical ring. Calculated scattering angle. 
+
+
+## Week 28
+### March 20, 2020
+Debugged H-G calculation. Still needs to figure out the output format of each function. The browser crashed multiple times due to extremely large number of facets. Temporarily working on low number of segments to reduce computational expenses. 
