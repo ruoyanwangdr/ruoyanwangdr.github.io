@@ -5,7 +5,7 @@ title: "CV"
 author_profile: true
 ---
 {% include base_path %}
-<a href="http://rywjhzd.github.io/files/CV_v1.pdf" style="color:#5bbad5">[Full CV]</a>
+<a href="http://rywjhzd.github.io/files/CV_Ruoyan_Wang.pdf" style="color:#5bbad5">[Full CV]</a>
 
 Education
 ======
