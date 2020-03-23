@@ -499,3 +499,9 @@ Debugged H-G calculation. Still needs to figure out the output format of each fu
 
 ### March 21, 2020
 Worked on finishing the rest two chapters of COP report. 
+
+### March 22, 2020
+Read for SPF. 
+
+### March 23, 2020
+Replaced normalization of H-G with respect to sum with max. 
