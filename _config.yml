@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ruoyan Wang's home page"
+title                    : "Ruoyan Wang"
 title_separator          : "-"
 name                     : &name "Ruoyan Wang"
 description              : &description "graduate student<br/>star and planet"
@@ -49,14 +49,14 @@ read_more                : "enabled" # if enabled, adds a "read more" link to ex
 future                   : true
 
 # SEO Related
-google_site_verification : #"3hdu0GcCfjZ6WbPpApjcdcEGjsCPDcDn1QLtBm-DRBg"
+google_site_verification : #""
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : #&twitter "staeiou"
+  username               : #&twitter ""
 facebook:
   username               :
   app_id                 :
@@ -70,9 +70,9 @@ social:
   links: # An array of links to social media profiles
 # Analytics
 analytics:
-  provider               : # "google-universal"  false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal"  false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : # "UA-79273-2"
+    tracking_id          : # ""
 
 
 
@@ -116,10 +116,9 @@ author:
 include:
   - .htaccess
   - _pages
-  - "*.pdf"
-  - "papers/*.pdf"
-  - "portfolio/papers/*.pdf"
-  - "portfolio/*.pdf"
+  - files
+#  - "portfolio/papers/*.pdf"
+#  - "portfolio/*.pdf"
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
