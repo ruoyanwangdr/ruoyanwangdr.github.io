@@ -508,3 +508,6 @@ Replaced normalization of H-G with respect to sum with max.
 
 ### March 24, 2020
 SPF lecture resumed online. COP nearly finished and left with state of matter and phase. 
+
+### March 25, 2020
+Midterm review of AFS. Kept debugging COP. 
