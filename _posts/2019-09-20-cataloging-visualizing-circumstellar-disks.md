@@ -511,3 +511,6 @@ SPF lecture resumed online. COP nearly finished and left with state of matter an
 
 ### March 25, 2020
 Midterm review of AFS. Kept debugging COP. 
+
+### March 26, 2020
+COP completed.
