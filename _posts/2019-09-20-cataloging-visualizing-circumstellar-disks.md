@@ -514,3 +514,8 @@ Midterm review of AFS. Kept debugging COP.
 
 ### March 26, 2020
 COP completed.
+
+
+## Week 29
+### March 27, 2020
+Corrected polarization direction. Need to create the dust scattered light. 
