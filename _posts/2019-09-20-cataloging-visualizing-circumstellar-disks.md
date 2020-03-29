@@ -519,3 +519,9 @@ COP completed.
 ## Week 29
 ### March 27, 2020
 Corrected polarization direction. Need to create the dust scattered light. 
+
+### March 28, 2020
+Read for SPF.
+
+### March 29, 2020
+Reproduced SPF in Milli et al. (2015) and implemented to disk. Got some questions to ask about inconsistency of parameters used in their expression. 
