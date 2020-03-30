@@ -525,3 +525,6 @@ Read for SPF.
 
 ### March 29, 2020
 Reproduced SPF in Milli et al. (2015) and implemented to disk. Got some questions to ask about inconsistency of parameters used in their expression. 
+
+### March 30, 2020
+Received explanation from Julien Milli for corrections of parameters. Phase function had been successfully plotted and implemented to the disk. A new problem came out to be the nearly unnoticeable visual effect, which may require further parametric modifications.
