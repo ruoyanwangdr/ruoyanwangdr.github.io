@@ -536,4 +536,4 @@ Forced to work offline because the electricity went down. Prepared for SPF prese
 Lowered g1 in phase function for more obvious visual effects. Tested virtual environment installation and activation within the directory after git clone. Started thesis document.
 
 ### April 2, 2020
-Discussed with Christian to plan for the next step. First, rebuild the database categories. Then, implement the polarization efficiency to H-G and reconstruct the disk shape with a power law. Need to start working on thesis outlines. 
+Discussed with Christian to plan for the next step. First, rebuild the database categories. Then, implement the polarization efficiency to H-G and reconstruct the disk shape with a power law. Meanwhile, start working on thesis outlines. Step one finished. 
