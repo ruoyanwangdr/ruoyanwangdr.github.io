@@ -524,7 +524,7 @@ Corrected polarization direction. Need to create the dust scattered light.
 Read for SPF.
 
 ### March 29, 2020
-Reproduced SPF in Milli et al. (2015) and implemented to disk. Got some questions to ask about inconsistency of parameters used in their expression. 
+Reproduced scattering phase function in Milli et al. (2015) and implemented to disk. Got some questions to ask about inconsistency of parameters used in their expression. 
 
 ### March 30, 2020
 Received explanation from Julien Milli for corrections of parameters. Phase function had been successfully plotted and implemented to the disk. A new problem came out to be the nearly unnoticeable visual effect, which may require further parametric modifications.
@@ -537,3 +537,14 @@ Lowered g1 in phase function for more obvious visual effects. Tested virtual env
 
 ### April 2, 2020
 Discussed with Christian to plan for the next step. First, rebuild the database categories. Then, implement the polarization efficiency to H-G and reconstruct the disk shape with a power law. Meanwhile, start working on thesis outlines. Step one finished. 
+
+
+## Week 30
+### April 3, 2020
+Read for SPF and prepared for the presentation.
+
+### April 4, 2020
+Completed thesis outlines. 
+
+### April 5, 2020
+Reconstructed the disk shape with a power law height profile. Implemented the polarization efficiency to the polarized intensity phase function. Visual effects became barely noticeable. Need a discussion. 
