@@ -548,3 +548,6 @@ Completed thesis outlines.
 
 ### April 5, 2020
 Reconstructed the disk shape with a power law height profile. Implemented the polarization efficiency to the polarized intensity phase function. Visual effects became barely noticeable. Need a discussion. 
+
+### April 6, 2020
+Plotted scattering angle vs phase function. The tail of the curve seemed a bit too low, probably because something went wrong with the calculation in phase function.
