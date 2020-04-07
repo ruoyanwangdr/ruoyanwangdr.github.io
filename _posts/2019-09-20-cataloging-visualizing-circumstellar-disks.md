@@ -551,3 +551,6 @@ Reconstructed the disk shape with a power law height profile. Implemented the po
 
 ### April 6, 2020
 Plotted scattering angle vs phase function. The tail of the curve seemed a bit too low, probably because something went wrong with the calculation in phase function.
+
+### April 7, 2020
+Worked on thesis outline. Read for SPF. 
