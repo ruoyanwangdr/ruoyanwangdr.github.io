@@ -554,3 +554,9 @@ Plotted scattering angle vs phase function. The tail of the curve seemed a bit t
 
 ### April 7, 2020
 Worked on thesis outline. Read for SPF. 
+
+### April 8, 2020
+Filtered out the scattering angles less than 20 degrees and set them to 20. Renormalized the phase function by diving the value at 20 degrees. 
+
+### April 9, 2020
+Rescaled the height profile to a smaller value so that the disk can be captured by the camera. Subtracted the scattering angle from pi to flip the forward and backward scattering. Color intensity looked good now.
