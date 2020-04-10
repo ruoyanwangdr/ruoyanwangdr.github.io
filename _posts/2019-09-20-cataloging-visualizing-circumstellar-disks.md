@@ -560,3 +560,8 @@ Filtered out the scattering angles less than 20 degrees and set them to 20. Reno
 
 ### April 9, 2020
 Rescaled the height profile to a smaller value so that the disk can be captured by the camera. Subtracted the scattering angle from pi to flip the forward and backward scattering. Color intensity looked good now.
+
+
+## Week 31
+### April 10, 2020
+Read for SPF and SAP.
