@@ -524,7 +524,7 @@ Corrected polarization direction. Need to create the dust scattered light.
 Read for SPF.
 
 ### March 29, 2020
-Reproduced scattering phase function in Milli et al. (2015) and implemented to disk. Got some questions to ask about inconsistency of parameters used in their expression. 
+Reproduced scattering phase function in Milli et al. (2017) and implemented to disk. Got some questions to ask about inconsistency of parameters used in their expression. 
 
 ### March 30, 2020
 Received explanation from Julien Milli for corrections of parameters. Phase function had been successfully plotted and implemented to the disk. A new problem came out to be the nearly unnoticeable visual effect, which may require further parametric modifications.
@@ -565,3 +565,9 @@ Rescaled the height profile to a smaller value so that the disk can be captured 
 ## Week 31
 ### April 10, 2020
 Read for SPF and SAP.
+
+### April 11, 2020
+GPU nearly burned because of the computational and graphical expenses. 
+
+### April 13, 2020
+Set the initial camera position to an inclination of 39.9 degrees as in Ginski et al. (2016). Optimized disk height profile with a smaller scale factor to avoid overloading.
