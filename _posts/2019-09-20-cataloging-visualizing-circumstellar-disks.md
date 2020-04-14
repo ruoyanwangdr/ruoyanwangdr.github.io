@@ -571,3 +571,6 @@ GPU nearly burned because of the computational and graphical expenses.
 
 ### April 13, 2020
 Set the initial camera position to an inclination of 39.9 degrees as in Ginski et al. (2016). Optimized disk height profile with a smaller scale factor to avoid overloading.
+
+### April 14, 2020
+Meeting with Matt and Christian to discuss the results. Need to replot the total intensity, the polarized intensity, and the polarization efficiency. Also, formalized the plots to paper-ready level. 
