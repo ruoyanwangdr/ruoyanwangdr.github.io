@@ -574,3 +574,6 @@ Set the initial camera position to an inclination of 39.9 degrees as in Ginski e
 
 ### April 14, 2020
 Meeting with Matt and Christian to discuss the results. Need to replot the total intensity, the polarized intensity, and the polarization efficiency. Also, formalized the plots to paper-ready level. 
+
+### April 15, 2020
+Converted scattering angles to degrees. Changed plot labels. Added legends and grids.
