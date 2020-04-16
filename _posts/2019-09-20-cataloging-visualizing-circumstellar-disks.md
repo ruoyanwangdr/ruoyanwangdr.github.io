@@ -577,3 +577,6 @@ Meeting with Matt and Christian to discuss the results. Need to replot the total
 
 ### April 15, 2020
 Converted scattering angles to degrees. Changed plot labels. Added legends and grids.
+
+### April 16, 2020
+Started to write the method chapter. 
