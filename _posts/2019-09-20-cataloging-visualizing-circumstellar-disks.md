@@ -580,3 +580,8 @@ Converted scattering angles to degrees. Changed plot labels. Added legends and g
 
 ### April 16, 2020
 Started to write the method chapter. 
+
+
+## Week 32
+### April 17, 2020
+Kept writing. Prepared for SPF presentation. 
