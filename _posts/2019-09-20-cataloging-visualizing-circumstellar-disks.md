@@ -585,3 +585,6 @@ Started to write the method chapter.
 ## Week 32
 ### April 17, 2020
 Kept writing. Prepared for SPF presentation. 
+
+### April 22, 2020
+A super busy week. Worked on SPF and SAP. Kept reading papers and writing my thesis. Very hard time, difficult to pump up and concentrate. 
