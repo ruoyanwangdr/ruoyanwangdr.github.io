@@ -586,5 +586,14 @@ Started to write the method chapter.
 ### April 17, 2020
 Kept writing. Prepared for SPF presentation. 
 
+### April 20, 2020
+Worked on SAP.
+
+### April 21, 2020
+Kept writing.
+
 ### April 22, 2020
 A super busy week. Worked on SPF and SAP. Kept reading papers and writing my thesis. Very hard time, difficult to pump up and concentrate. 
+
+### April 23, 2020
+Conducted SPF presentation. Kept writing. 
