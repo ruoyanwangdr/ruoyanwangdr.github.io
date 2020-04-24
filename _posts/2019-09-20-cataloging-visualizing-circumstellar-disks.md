@@ -597,3 +597,6 @@ A super busy week. Worked on SPF and SAP. Kept reading papers and writing my the
 
 ### April 23, 2020
 Conducted SPF presentation. Kept writing. 
+
+### April 24, 2020
+Worked on SAP. Read for thesis.
