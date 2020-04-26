@@ -598,9 +598,13 @@ A super busy week. Worked on SPF and SAP. Kept reading papers and writing my the
 ### April 23, 2020
 Conducted SPF presentation. Kept writing. 
 
+
 ## Week 33
 ### April 24, 2020
 Worked on SAP. Read for thesis.
 
 ### April 25, 2020
 Kept writing.
+
+### April 26, 2020
+Collected some thesis references. Found that a new g1 value in HG could be applied to correct the overwhelming forward scattering. Will discuss and try. 
