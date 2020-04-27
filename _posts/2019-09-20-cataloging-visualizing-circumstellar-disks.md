@@ -608,3 +608,6 @@ Kept writing.
 
 ### April 26, 2020
 Collected some thesis references. Found that a new g1 value in HG could be applied to correct the overwhelming forward scattering. Will discuss and try. 
+
+### April 27, 2020
+Kept writing. 
