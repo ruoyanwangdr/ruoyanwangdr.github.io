@@ -611,3 +611,6 @@ Collected some thesis references. Found that a new g1 value in HG could be appli
 
 ### April 27, 2020
 Kept writing. 
+
+### April 28, 2020
+Worked on SAP and SPF.
