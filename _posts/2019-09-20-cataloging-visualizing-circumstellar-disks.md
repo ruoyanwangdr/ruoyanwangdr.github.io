@@ -614,3 +614,14 @@ Kept writing.
 
 ### April 28, 2020
 Worked on SAP and SPF.
+
+### April 29, 2020
+Worked on SAP and SPF. Kept writing. 
+
+### April 30, 2020
+Kept writing. Tested astropy curve fitting. 
+
+
+## Week 34
+### May 1, 2020
+Received disk data of HD97048 in Ginski et al. (2016) and Tazaki et al. (2019). Worked on curve fitting. Prepared for SAP presentation. Worked on proposal. 
