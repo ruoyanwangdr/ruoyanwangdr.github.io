@@ -624,4 +624,7 @@ Kept writing. Tested astropy curve fitting.
 
 ## Week 34
 ### May 1, 2020
-Received disk data of HD97048 in Ginski et al. (2016) and Tazaki et al. (2019). Worked on curve fitting. Prepared for SAP presentation. Worked on proposal. 
+Received disk data of HD97048 in Ginski et al. (2016) and Tazaki et al. (2019). Worked on curve fitting. Prepared for SAP presentation. Worked on SAP proposal. 
+
+### May 2, 2020
+Completed SAP proposal. Attempted astropy and scipy curve fitting. 
