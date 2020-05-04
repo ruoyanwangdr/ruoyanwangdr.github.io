@@ -631,3 +631,6 @@ Completed SAP proposal. Attempted astropy and scipy curve fitting.
 
 ### May 3, 2020
 Started SAP essay. Read about planetary atmospheres. 
+
+### May 4, 2020
+Worked on SAP and SPF essay. 
