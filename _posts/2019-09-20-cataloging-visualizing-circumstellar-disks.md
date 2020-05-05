@@ -630,7 +630,10 @@ Received disk data of HD97048 in Ginski et al. (2016) and Tazaki et al. (2019). 
 Completed SAP proposal. Attempted astropy and scipy curve fitting. 
 
 ### May 3, 2020
-Started SAP essay. Read about planetary atmospheres. 
+Started SAP and SPF essay. Read about planetary atmospheres. 
 
 ### May 4, 2020
 Worked on SAP and SPF essay. 
+
+### May 5, 2020
+Worked on SAP and SPF essay. Resumed thesis writing. 
