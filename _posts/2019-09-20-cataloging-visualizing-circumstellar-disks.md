@@ -637,3 +637,6 @@ Worked on SAP and SPF essay.
 
 ### May 5, 2020
 Worked on SAP and SPF essay. Resumed thesis writing. 
+
+### May 6, 2020
+Plotted normalized flux and phase functions in Ginski et al. (2016) and Tazaki et al. (2019). The degree of polarization in Tazaki returned NaN because of the extremely tiny values. Need a discussion. 
