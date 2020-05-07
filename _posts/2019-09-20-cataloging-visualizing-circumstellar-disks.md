@@ -640,3 +640,6 @@ Worked on SAP and SPF essay. Resumed thesis writing.
 
 ### May 6, 2020
 Plotted normalized flux and phase functions in Ginski et al. (2016) and Tazaki et al. (2019). The degree of polarization in Tazaki returned NaN because of the extremely tiny values. Need a discussion. 
+
+### May 7, 2020
+Fitted normalized flux of HD97048 with two and three component HG functions (HG2, HG3) and a fourth-order polynomial. The polynomial fit seems return the best result. BCCP and BPCP models were fitted with HG2 and HG3 as well, yet resulted a poor fit. The problem is that Z11 seems to be an exponential polynomial, which can be expressed with a Bell function. However, Bell function can only have a rising tail when x changes signs, not possible in this case as there is no negative scattering angle. Will try a different initial function. 
