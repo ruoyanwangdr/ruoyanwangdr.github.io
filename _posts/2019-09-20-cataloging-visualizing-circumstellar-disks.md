@@ -645,5 +645,12 @@ Plotted normalized flux and phase functions in Ginski et al. (2016) and Tazaki e
 Fitted normalized flux of HD97048 with two and three component HG functions (HG2, HG3) and a fourth-order polynomial. The polynomial fit seems return the best result. BCCP and BPCP models were fitted with HG2 and HG3 as well, yet resulted a poor fit. The problem is that Z11 seems to be an exponential polynomial, which can be expressed with a Bell polynomial. However, it can only have a rising tail when x changes signs, not possible in this case as there is no negative scattering angle. Will try a different initial function. 
 
 
-## May 8, 2020
-Successfully fitted a polynomial to BCCP and BPCP by converting the exponential decay to into log scale. A 7th order or higher order polynomial appeared to be the best fit in all three models. Implemented the polynomial fit to the disk. Took a lot of efforts to translate from python to javascript. Still need to set the color scalar with the new intensity phase function. 
+## Week 35
+### May 8, 2020
+Successfully fitted a polynomial to BCCA and BPCA by converting the exponential decay to into log scale. A 7th order or higher order polynomial appeared to be the best fit in all three models. Implemented the polynomial fits to the disk. Took a lot of efforts to translate from python to javascript. Still need to set the color scalar with the new intensity phase function. 
+
+### May 9, 2020
+The color shading kept return oversaturation. Debugged it with the correct radian-degree conversion.  
+
+### May 10, 2020
+Normalized BCCP and BPCA models to their peak value. Successfully generated phase function plots with correct ranges of scattering angles. Worked on thesis writing.
