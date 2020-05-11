@@ -654,3 +654,6 @@ The color shading kept return oversaturation. Debugged it with the correct radia
 
 ### May 10, 2020
 Normalized BCCP and BPCA models to their peak value. Successfully generated phase function plots with correct ranges of scattering angles. Worked on thesis writing.
+
+### May 11, 2020
+Changed plot to marker scatter for clearer result. Shaded the side to dark if the tilted angle angle more than 90 degrees. Result seemed weird. Attempted with a different approach. 
