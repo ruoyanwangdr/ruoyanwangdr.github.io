@@ -657,3 +657,9 @@ Normalized BCCP and BPCA models to their peak value. Successfully generated phas
 
 ### May 11, 2020
 Changed plot to marker scatter for clearer result. Shaded the side to dark if the tilted angle angle more than 90 degrees. Result seemed weird. Attempted with a different approach. 
+
+### May 12, 2020
+Helped by Matt with shading the side of the disk. The error turned out to be an alternative appending of the data points to the disk array. The disk model is ready for comparison with observations.
+
+### May 13, 2020
+Kept writing. Worked on SPF.
