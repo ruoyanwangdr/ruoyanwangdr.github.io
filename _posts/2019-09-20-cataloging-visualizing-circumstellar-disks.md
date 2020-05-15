@@ -663,3 +663,11 @@ Helped by Matt with shading the side of the disk. The error turned out to be an 
 
 ### May 13, 2020
 Kept writing. Worked on SPF.
+
+### May 14, 2020
+Adjusted inclinations to compare the model with different observed images. 
+
+
+## Week 36
+### May 15, 2020
+Wrapped up writings.
