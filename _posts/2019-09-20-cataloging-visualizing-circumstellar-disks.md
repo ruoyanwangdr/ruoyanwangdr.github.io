@@ -671,3 +671,6 @@ Adjusted inclinations to compare the model with different observed images.
 ## Week 36
 ### May 15, 2020
 Wrapped up writings.
+
+### May 16, 2020
+Kept writing. 
