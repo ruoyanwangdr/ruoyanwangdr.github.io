@@ -674,3 +674,6 @@ Wrapped up writings.
 
 ### May 16, 2020
 Kept writing. 
+
+### May 17, 2020
+Speeded up all writings. 
