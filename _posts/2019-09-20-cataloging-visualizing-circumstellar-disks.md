@@ -677,3 +677,12 @@ Kept writing.
 
 ### May 17, 2020
 Speeded up all writings. 
+
+### May 18, 2020
+Organized figures. Kept writing. 
+
+### May 19, 2020
+Worked on SAP and SPF essay. 
+
+### May 20, 2020
+Kept writing. 
