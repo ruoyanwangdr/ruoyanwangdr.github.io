@@ -686,3 +686,6 @@ Worked on SAP and SPF essay.
 
 ### May 20, 2020
 Kept writing. 
+
+### May 21, 2020
+Kept writing. 
