@@ -689,3 +689,8 @@ Kept writing.
 
 ### May 21, 2020
 Kept writing. 
+
+
+## Week 37
+### May 22-28, 2020
+Completed the first draft of discussion. Finished SPF essay. Continued working on SAP.
