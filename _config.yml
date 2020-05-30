@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruoyan Wang"
 title_separator          : "-"
 name                     : &name "Ruoyan Wang"
-description              : &description "graduate student<br/>star and planet"
+description              : &description "graduate student<br/>astrophysics"
 url                      : https://rywjhzd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rywjhzd/rywjhzd.github.io"
@@ -90,7 +90,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "rywjhzd"
+  facebook         :
   foursquare       :
   github           : "rywjhzd"
   google_plus      :
