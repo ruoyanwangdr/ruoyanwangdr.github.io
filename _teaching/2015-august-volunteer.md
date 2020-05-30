@@ -1,5 +1,5 @@
 ---
-title: "Gapper International Voluntourism"
+title: "Gapper International Volunteering"
 collection: teaching
 teaching_type: "Outreach"
 permalink: /experiences/2015-august-volunteer
