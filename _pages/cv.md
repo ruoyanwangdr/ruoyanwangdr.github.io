@@ -9,29 +9,35 @@ author_profile: true
 
 Education
 ======
-* B.S. in Physics (Astrophysics), University of California, Santa Cruz, 2017
-* M.S. in Astronomy, Leiden University, 2020 (expected)
+* PhD in Physics, University of Leicester, 2024 (expected)
+* MSc in Astronomy, Leiden University, 2020
+* BSc in Physics (Astrophysics), University of California, Santa Cruz, 2017
 
 Research Experiences
 ======
-* 2016-2018: Undergraduate Research
-  * University of California, Santa Cruz 
-  * Thesis: Atmospheric Models of Brown Dwarfs. 
-  * Supervisor: Jonathan Fortney
+* 2020-2024: PhD Research
+ * University of Leicester
+ * Thesis: Jupiter’s Auroral Ionosphere and Thermosphere
+ * Supervisor(s): Thomas Stallard and Darren Wright
+
+* 2019-2020: Master Research
+  * Leiden University
+  * Thesis: Cataloging and Visualizing Cradles of Planet Formation
+  * Supervisor: Matthew Kenworthy
   
 * 2018-2019: Master Research
   * Leiden University
   * Thesis: Detection of Transiting Exoplanets on the Bright End with MASCARA/TESS
   * Supervisor: Ignas Snellen
 
-* 2019-2020: Master Research
-  * Leiden University
-  * Thesis: Cataloging and Visualizing Cradles of Planet Formation
-  * Supervisor: Matthew Kenworthy
+ * 2016-2018: Undergraduate Research
+  * University of California, Santa Cruz 
+  * Thesis: Atmospheric Models of Brown Dwarfs. 
+  * Supervisor: Jonathan Fortney
 
 Programming Languages
 ======
-* Python, Javascript, Html
+* Python, Javascript
 
 Publications
 ======
@@ -53,6 +59,6 @@ Experiences
   
 Awards/Honors/Scholarships
 ======
-* University of California Regents Scholarships, 2013-2017
-* Undergraduate Dean's Honor, 2013, 2015
+* University of California Regents Scholarships, 2013
+* Dean's Honors, 2013, 2015
 * Astronomy Master Scholarship, 2018, 2019
