@@ -668,29 +668,16 @@ Kept writing. Worked on SPF.
 Adjusted inclinations to compare the model with different observed images. 
 
 
-## Week 36
-### May 15, 2020
-Wrapped up writings.
-
-### May 16, 2020
-Kept writing. 
-
-### May 17, 2020
-Speeded up all writings. 
-
-### May 18, 2020
-Organized figures. Kept writing. 
-
-### May 19, 2020
-Worked on SAP and SPF essay. 
-
-### May 20, 2020
-Kept writing. 
-
-### May 21, 2020
-Kept writing. 
+## Week 36 -- Initiate thesis writing 
+### May 15 - 21, 2020
+Wrapped up the method and discussion section. Continued SPF and SAP essay. 
 
 
 ## Week 37
-### May 22-28, 2020
-Completed the first draft of discussion. Finished SPF essay. Continued working on SAP.
+### May 22 - 28, 2020
+Completed the first draft of discussion. SPF essay completed. Continued working on SAP.
+
+
+## Week 38
+### May 29 - June 5, 2020
+Revised the draft of method and discussion. SAP essay completed. 
