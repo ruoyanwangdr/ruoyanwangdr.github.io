@@ -679,5 +679,10 @@ Completed the first draft of discussion. SPF essay completed. Continued working 
 
 
 ## Week 38
-### May 29 - June 5, 2020
+### May 29 - June 4, 2020
 Revised the draft of method and discussion. SAP essay completed. 
+
+
+## Week 39
+### June 5 - June 11, 2020
+Completed the first complete draft.  Preparing for the colloquium. 
