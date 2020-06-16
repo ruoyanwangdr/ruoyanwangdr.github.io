@@ -9,7 +9,7 @@ author_profile: true
 
 Education
 ======
-* PhD in Physics, University of Leicester, 2024 (expected)
+* PhD in Planetary Physics, University of Leicester, 2024 (expected)
 * MSc in Astronomy, Leiden University, 2020
 * BSc in Physics (Astrophysics), University of California, Santa Cruz, 2017
 
