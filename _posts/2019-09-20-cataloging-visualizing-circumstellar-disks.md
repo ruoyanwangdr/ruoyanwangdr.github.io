@@ -686,3 +686,11 @@ Revised the draft of method and discussion. SAP essay completed.
 ## Week 39
 ### June 5 - June 11, 2020
 Completed the first complete draft.  Preparing for the colloquium. 
+
+
+## Week 40
+### June 12 - June 15, 2020
+Prepared for the colloquium.
+
+### June 16, 2020
+Passed!
