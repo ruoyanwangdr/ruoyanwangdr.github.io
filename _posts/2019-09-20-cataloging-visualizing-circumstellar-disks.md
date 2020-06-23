@@ -694,3 +694,11 @@ Prepared for the colloquium.
 
 ### June 16, 2020
 Passed!
+
+### June 17 - June 19, 2020
+Added the HG polar plot and the age correlation plot.
+
+
+## Week 41
+### June 20 - June 26, 2020
+Revised the introduction and abstract to be more concise.
