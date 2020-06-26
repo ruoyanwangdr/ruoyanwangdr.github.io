@@ -35,10 +35,6 @@ Research Experiences
   * Thesis: Atmospheric Models of Brown Dwarfs 
   * Advisor: Jonathan Fortney
 
-Programming Languages
-======
-* Python, Javascript
-
 Publications
 ======
   <ul>{% for post in site.articles %}
