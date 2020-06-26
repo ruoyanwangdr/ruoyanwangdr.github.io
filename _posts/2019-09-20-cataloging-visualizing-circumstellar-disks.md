@@ -701,4 +701,4 @@ Added the HG polar plot and the age correlation plot.
 
 ## Week 41
 ### June 20 - June 26, 2020
-Revised the introduction and abstract to be more concise.
+Revised the introduction and abstract to be more concise. Completed a second round of revision. The draft should be the final version and ready to submit. 
