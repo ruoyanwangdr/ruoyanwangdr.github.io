@@ -9,7 +9,7 @@ You can check the [source code](https://github.com/rywjhzd/Cataloging-and-Visual
 
 ## Week 1 -- Beginning of the project
 ### September 20, 2019
-Spent an hour today with Matt and Christian discussing the blueprint of this project. Feel really excited. Hope this year will go well. 
+Spent an hour today with Matt and Christian discussing the blueprint of this project. Felt really excited. Hope this year will go well. 
 ![](https://raw.githubusercontent.com/rywjhzd/rywjhzd.github.io/master/images/blog/2019-09-20.jpg)
 
 ### September 21, 2019
@@ -702,3 +702,11 @@ Added the HG polar plot and the age correlation plot.
 ## Week 41
 ### June 20 - June 26, 2020
 Revised the introduction and abstract to be more concise. Completed a second round of revision. The draft should be the final version and ready to submit. 
+
+
+## Week 42 -- Completion of the project
+### June 29, 2020
+Updated the plots showing the database and the disk skeleton. Brightened images of HD169142 and PDS66. 
+
+### June 30, 2020
+Thesis submitted. 
