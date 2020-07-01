@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "Ruoyan Wang"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "Astronomy graduate student at <a style='color: black;' href='https://www.universiteitleiden.nl/en/science/astronomy'>Leiden Observatory</a>; Astrophysics BSc and research assistant at <a style='color: black;' href='https://www.astro.ucsc.edu/'>University of California, Santa Cruz</a>."
   location         : "Leiden, Netherlands"
   employer         :
