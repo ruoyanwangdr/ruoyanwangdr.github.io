@@ -693,7 +693,7 @@ Completed the first complete draft.  Preparing for the colloquium.
 Prepared for the colloquium.
 
 ### June 16, 2020
-Passed!
+Colloquium Passed.
 
 ### June 17 - June 19, 2020
 Added the HG polar plot and the age correlation plot.
@@ -710,3 +710,8 @@ Updated the plots showing the database and the disk skeleton. Brightened images 
 
 ### June 30, 2020
 Thesis submitted. 
+
+
+## Week 43 
+### July 10, 2020
+Thesis passed. Now looking back, I have gained experiences in web databases and graphical designs, in addition to understanding scattered light imaging of circumstellar disks from an astronomical perspective. Though the result is satisfactory, I still have deficiencies in researching skills and interactions with supervisor. Definitely need to improve these in my future career. For now, let me enjoy my summer. 
