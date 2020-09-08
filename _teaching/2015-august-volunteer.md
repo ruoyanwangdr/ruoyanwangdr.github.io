@@ -1,10 +1,10 @@
 ---
 title: "Gapper International Volunteering"
 collection: teaching
-teaching_type: "Outreach"
+teaching_type: "outreach"
 permalink: /experiences/2015-august-volunteer
 date: 2015-08-03
-excerpt: "<i>Volunteering, volunteer</i><br/>
+excerpt: "<i>Volunteering; Volunteer</i><br/>
 Learned about the ecosystem of sea turtles and the balance between wildlife and human activities. Helped design a passive sonar to listen and record sea turtles during mating seasons, and also to observe their reactions to different musics."
 ---
 
