@@ -55,6 +55,6 @@ Experiences
   
 Awards/Honors/Scholarships
 ======
-* Astronomy Master Scholarship, 2018, 2019
-* Dean's Honors, 2013, 2015
-* University of California Regents Scholarships, 2013
+* Leiden University Excellence Scholarship (LExS) - 2018, 2019
+* Dean's Honors - 2013, 2015
+* University of California Regents Scholarships - 2013
