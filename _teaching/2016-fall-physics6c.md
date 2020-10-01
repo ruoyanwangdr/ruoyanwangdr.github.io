@@ -4,7 +4,7 @@ collection: teaching
 permalink: /teaching/2016-fall-physics6c
 institution: "UC Santa Cruz, Dept of Physics"
 date: 2016-09-22
-excerpt: "<i>Undergraduate tutoring; MSI tutor</i><br/>
+excerpt: "<i>Undergraduate tutoring</i><br/>
 Introduction to electricity and magnetism. Elementary circuits; Maxwell's equations; electromagnetic radiation; interference and polarization of light."
 ---
 

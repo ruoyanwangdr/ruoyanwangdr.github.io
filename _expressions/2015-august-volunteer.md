@@ -1,9 +1,9 @@
 ---
 title: "Gapper International Volunteering"
-collection: experiences
+collection: expressions
 permalink: /experiences/2015-august-volunteer
 date: 2015-08-03
-excerpt: "<i>Volunteering; Volunteer</i><br/>
+excerpt: "<i>Outreach; Volunteering</i><br/>
 Learned about the ecosystem of sea turtles and the balance between wildlife and human activities. Helped design a passive sonar to listen and record sea turtles during mating seasons, and also to observe their reactions to different musics."
 ---
 
