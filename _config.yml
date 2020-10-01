@@ -224,10 +224,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _expressions
+  # _experiences
   - scope:
       path: ""
-      type: expressions
+      type: experiences
     values:
       layout: single
       author_profile: true
