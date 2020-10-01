@@ -84,7 +84,7 @@ author:
   location         : "Leicester, United Kingdom"
   employer         :
   googlescholar    :
-  email            : "rwan17@ucsc.edu"
+  email            : "rw318@leicester.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Europe/Amsterdam # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
