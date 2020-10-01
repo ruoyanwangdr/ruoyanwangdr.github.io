@@ -2,7 +2,7 @@
 title: "Jupiter's Auroral Ionosphere and Thermosphere - 1st Year"
 published: 2020-09-28
 excerpt: "A research blog to track the first year of my PhD research project at University of Leicester. "
-permalink: /posts/jupiter%27s-auroral-ionosphere-and-thermosphere
+permalink: /posts/2020/jupiter%27s-auroral-ionosphere-and-thermosphere
 ---
 
 
