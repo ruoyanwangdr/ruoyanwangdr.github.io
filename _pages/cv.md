@@ -18,22 +18,22 @@ Research Experiences
 * 2020-2024: PhD Research
   * University of Leicester
   * Thesis: Jupiter’s Auroral Ionosphere and Thermosphere
-  * Advisor(s): Thomas Stallard and Darren Wright
+  * Advisor(s): Dr. Thomas Stallard and Dr. Darren Wright
 
 * 2019-2020: Master Research
   * Leiden University
   * Thesis: Cataloging and Visualizing Cradles of Planet Formation
-  * Advisor: Matthew Kenworthy
+  * Advisor: Dr. Matthew Kenworthy
   
 * 2018-2019: Master Research
   * Leiden University
   * Thesis: Detection of Transiting Exoplanets on the Bright End with MASCARA/TESS
-  * Advisor: Ignas Snellen
+  * Advisor: Prof. Ignas Snellen
   
 * 2016-2018: Undergraduate Research
   * University of California, Santa Cruz 
   * Thesis: Atmospheric Models of Brown Dwarfs 
-  * Advisor: Jonathan Fortney
+  * Advisor: Prof. Jonathan Fortney
 
 Publications
 ======
