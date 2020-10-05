@@ -25,3 +25,4 @@ Library induction. More documents of employment to deal with. More readings abou
 
 ## Week 2
 ### October 3, 2020
+Even more documents to process. Barely have time to read. The beginning stage is just a mess. 
