@@ -24,5 +24,8 @@ Library induction. More documents of employment to deal with. More readings abou
 
 
 ## Week 2
-### October 3, 2020
+### October 5, 2020
 Even more documents to process. Barely have time to read. The beginning stage is just a mess. 
+
+### October 6, 2020
+Arrived in Leicester finally after quarantine. The city looks pretty even during the pandemic. A bunch of things to figured out but more or less settled. Looking forward exploring a bit. 
