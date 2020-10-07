@@ -29,3 +29,6 @@ Even more documents to process. Barely have time to read. The beginning stage is
 
 ### October 6, 2020
 Arrived in Leicester finally after quarantine. The city looks pretty even during the pandemic. A bunch of things to figured out but more or less settled. Looking forward exploring a bit. 
+
+### October 7, 2020
+Got to know my neighbor who happens to be a really nice dude. Completed training analysis and challenging unconscious bias module. Read for research.
