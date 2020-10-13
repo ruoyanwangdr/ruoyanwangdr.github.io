@@ -32,3 +32,14 @@ Arrived in Leicester finally after quarantine. The city looks pretty even during
 
 ### October 7, 2020
 Got to know my neighbor who happens to be a really nice dude. Completed training analysis and challenging unconscious bias module. Read for research.
+
+### October 8, 2020
+Completed research integrity module. Read for research.
+
+### October 9, 2020
+Prepared for lab demonstrating. 
+
+
+## Week 3
+### October 12, 2020
+Studied the impact of the Sun's magnetic field to magnetospheres on terrestrial and Jovian planets. 
