@@ -43,3 +43,15 @@ Prepared for lab demonstrating.
 ## Week 3
 ### October 12, 2020
 Studied the impact of the Sun's magnetic field to magnetospheres on terrestrial and Jovian planets. 
+
+### October 13, 2020
+Read for magnetosphere-Ionosphere coupling.
+
+### October 14, 2020
+College Induction. 
+
+### October 15, 2020
+College Induction part 2. 
+
+### October 16, 2020
+Read for charged particle drifting. 
