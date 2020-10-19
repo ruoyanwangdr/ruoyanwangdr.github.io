@@ -55,3 +55,8 @@ College Induction part 2.
 
 ### October 16, 2020
 Read for charged particle drifting. 
+
+
+## Week 4
+### October 19, 2020
+Read Mapping H3+ Temperatures in Jupiter’s Northern Auroral Ionosphere Using VLT-CRIRES.
