@@ -37,7 +37,7 @@ Got to know my neighbor who happens to be a really nice dude. Completed training
 Completed research integrity module. Read for research.
 
 ### October 9, 2020
-Prepared for lab demonstrating. 
+Prepared for lab demonstrating. Read lab manuals and instructions. 
 
 
 ## Week 3
@@ -45,7 +45,7 @@ Prepared for lab demonstrating.
 Studied the impact of the Sun's magnetic field to magnetospheres on terrestrial and Jovian planets. 
 
 ### October 13, 2020
-Read for magnetosphere-Ionosphere coupling.
+Supervision meeting with Tom. Discussed details about progress assessment and next stage of study. Read for magnetosphere-Ionosphere coupling. 
 
 ### October 14, 2020
 College Induction. 
@@ -60,3 +60,15 @@ Read for charged particle drifting.
 ## Week 4
 ### October 19, 2020
 Read Mapping H3+ Temperatures in Jupiter’s Northern Auroral Ionosphere Using VLT-CRIRES.
+
+### October 20, 2020
+Presented Johnson et al. (2018) at the journal club. 
+
+### October 21, 2020
+Got myself familiar with the lab setup. Will start working as the lab demonstrator. 
+
+### October 22, 2020
+Substituted in for another lab demonstrator who was sick. Session went well and smoothly.
+
+### October 23, 2020
+Second lab session. Students often misplaced the positive and negative ends. 
