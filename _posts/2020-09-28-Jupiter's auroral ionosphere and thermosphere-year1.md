@@ -76,13 +76,13 @@ Second lab session. Students often misplaced the positive and negative ends.
 
 ## Week 5
 ### October 26, 2020
-Lab session of my own to demonstrate. Read Stallard et. al (2016) - The Great Cold Spot in Jupiter’s upper atmosphere.
+Lab session of my own to demonstrate. Read Stallard et al. (2016) - The Great Cold Spot in Jupiter’s upper atmosphere.
 
 ### October 27, 2020
 Second lab session. Journal club. 
 
 ### October 28, 2020
-Revised training plan. Read Johnson et. al (2017) - Jupiter’s polar ionospheric flows: High resolution mapping of spectral intensity and line-of-sight velocity of H3+ ions.
+Revised training plan. Read Johnson et al. (2017) - Jupiter’s polar ionospheric flows: High resolution mapping of spectral intensity and line-of-sight velocity of H3+ ions.
 
 ### October 29, 2020
 Discussed papers to read during group meeting. Confirmed data directory. First session of Developing your teaching practice 2020-21 SEM1. 
