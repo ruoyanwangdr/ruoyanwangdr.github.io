@@ -11,7 +11,7 @@ permalink: /posts/2020/jupiter%27s-auroral-ionosphere-and-thermosphere
 Spent an hour taking the physics Induction A. Met some cool people. Read some plasma physics lecture notes for background theory. Forgot nearly everything learned in undergrad. Really need to recap. Hopefully, this will be a satisfactory year.
 
 ### September 29, 2020
-Mandatory Induction B. Received useful information about required progress management of my project. Continued reading.
+Mandatory Induction B. Received useful information about required progress management of my project. Restarted reading Rosie Johnson's PhD thesis.
 
 ### September 30, 2020
 Tons of emails to write and reply. Reading progress slowly proceeded. 
@@ -31,13 +31,13 @@ Even more documents to process. Barely have time to read. The beginning stage is
 Arrived in Leicester finally after quarantine. The city looks pretty even during the pandemic. A bunch of things to figured out but more or less settled. Looking forward exploring a bit. 
 
 ### October 7, 2020
-Got to know my neighbor who happens to be a really nice dude. Completed training analysis and challenging unconscious bias module. Read for research.
+Got to know my neighbor who happens to be a really nice dude. Completed training analysis and challenging unconscious bias module. Read Rosie's thesis.
 
 ### October 8, 2020
-Completed research integrity module. Read for research.
+Completed research integrity module. Read Rosie's thesis.
 
 ### October 9, 2020
-Prepared for lab demonstrating. Read lab manuals and instructions. 
+Read lab manuals and instructions and prepared for lab demonstrating. 
 
 
 ## Week 3
@@ -59,10 +59,10 @@ Read for charged particle drifting.
 
 ## Week 4
 ### October 19, 2020
-Read Mapping H3+ Temperatures in Jupiter’s Northern Auroral Ionosphere Using VLT-CRIRES.
+Read Johnson et al. (2018) - Mapping H3+ Temperatures in Jupiter’s Northern Auroral Ionosphere Using VLT-CRIRES.
 
 ### October 20, 2020
-Presented Johnson et al. (2018) at the journal club. 
+Journal club. 
 
 ### October 21, 2020
 Got myself familiar with the lab setup. Will start working as the lab demonstrator. 
@@ -72,3 +72,17 @@ Substituted in for another lab demonstrator who was sick. Session went well and 
 
 ### October 23, 2020
 Second lab session. Students often misplaced the positive and negative ends. 
+
+
+## Week 5
+### October 26, 2020
+Lab session of my own to demonstrate. Read Stallard et. al (2016) - The Great Cold Spot in Jupiter’s upper atmosphere.
+
+### October 27, 2020
+Second lab session. Journal club. 
+
+### October 28, 2020
+Revised training plan. Read Johnson et. al (2017) - Jupiter’s polar ionospheric flows: High resolution mapping of spectral intensity and line-of-sight velocity of H3+ ions.
+
+### October 29, 2020
+Discussed papers to read during group meeting. Confirmed data directory. First session of Developing your teaching practice 2020-21 SEM1. 
