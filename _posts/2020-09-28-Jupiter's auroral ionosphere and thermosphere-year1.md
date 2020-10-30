@@ -86,3 +86,6 @@ Revised training plan. Read Johnson et al. (2017) - Jupiter’s polar ionospheri
 
 ### October 29, 2020
 Discussed papers to read during group meeting. Confirmed data directory. First session of Developing your teaching practice 2020-21 SEM1. 
+
+### October 30, 2020
+Studied for Preparing to Teach in HE. 
