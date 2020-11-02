@@ -89,3 +89,8 @@ Discussed papers to read during group meeting. Confirmed data directory. First s
 
 ### October 30, 2020
 Studied for Preparing to Teach in HE. 
+
+
+## Week 6
+### November 2, 2020
+Grading. 
