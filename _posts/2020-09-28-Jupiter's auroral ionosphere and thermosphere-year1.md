@@ -94,3 +94,6 @@ Studied for Preparing to Teach in HE.
 ## Week 6
 ### November 2, 2020
 Grading. 
+
+### November 3, 2020
+Journal club. Studied for Preparing to Teach in HE. Grading. 
