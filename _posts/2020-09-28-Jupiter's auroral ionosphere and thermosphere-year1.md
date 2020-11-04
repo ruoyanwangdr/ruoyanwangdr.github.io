@@ -97,3 +97,6 @@ Grading.
 
 ### November 3, 2020
 Journal club. Studied for Preparing to Teach in HE. Grading. 
+
+### November 4, 2020
+Met with Emma, Henrik, and Tom at Victoria Park. It was nice to see and chat with these lovely folks. 
