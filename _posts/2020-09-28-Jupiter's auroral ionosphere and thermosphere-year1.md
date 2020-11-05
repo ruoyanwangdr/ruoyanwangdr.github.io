@@ -100,3 +100,6 @@ Journal club. Studied for Preparing to Teach in HE. Grading.
 
 ### November 4, 2020
 Met with Emma, Henrik, and Tom at Victoria Park. It was nice to see and chat with these lovely folks. 
+
+### November 5, 2020
+First em lab session to demonstrate. It's been years since the last time I played with circuits. 
