@@ -103,3 +103,6 @@ Met with Emma, Henrik, and Tom at Victoria Park. It was nice to see and chat wit
 
 ### November 5, 2020
 First em lab session to demonstrate. It's been years since the last time I played with circuits. 
+
+### November 6, 2020
+Second em lab session. Had a nice conversation with my neighbors this evening. 
