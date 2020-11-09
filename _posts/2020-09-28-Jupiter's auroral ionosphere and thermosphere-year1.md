@@ -106,3 +106,8 @@ First em lab session to demonstrate. It's been years since the last time I playe
 
 ### November 6, 2020
 Second em lab session. Had a nice conversation with my neighbors this evening. 
+
+
+## Week 7
+### November 9, 2020
+Read Moore et al. (2019) - Modelling H3+ in planetary atmospheres: effects of vertical gradients on observed quantities.
