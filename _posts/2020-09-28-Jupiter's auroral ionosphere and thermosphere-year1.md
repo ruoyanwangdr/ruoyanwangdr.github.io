@@ -85,7 +85,7 @@ Second lab session. Journal club.
 Revised training plan. Read Johnson et al. (2017) - Jupiter’s polar ionospheric flows: High resolution mapping of spectral intensity and line-of-sight velocity of H3+ ions.
 
 ### October 29, 2020
-Discussed papers to read during group meeting. Confirmed data directory. First session of Developing your teaching practice 2020-21 SEM1. 
+Discussed papers to read during group meeting. Confirmed data directory. First session of Developing Teaching Practice 2020-21 SEM1. 
 
 ### October 30, 2020
 Studied for Preparing to Teach in HE. 
@@ -111,3 +111,6 @@ Second em lab session. Had a nice conversation with my neighbors this evening.
 ## Week 7
 ### November 9, 2020
 Read Moore et al. (2019) - Modelling H3+ in planetary atmospheres: effects of vertical gradients on observed quantities.
+
+### November 10, 2020
+Attended second session of Developing Teaching Practice and workshop Defining and Refining Research Question. 
