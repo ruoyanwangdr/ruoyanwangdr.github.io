@@ -114,3 +114,6 @@ Read Moore et al. (2019) - Modelling H3+ in planetary atmospheres: effects of ve
 
 ### November 10, 2020
 Attended second session of Developing Teaching Practice and workshop Defining and Refining Research Question. 
+
+### November 10, 2020
+Supervision meeting with Tom. Confirmed training plan. Will continue reading and start with trying to plot the spectra.
