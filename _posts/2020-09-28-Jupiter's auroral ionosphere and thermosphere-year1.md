@@ -102,18 +102,24 @@ Journal club. Studied for Preparing to Teach in HE. Grading.
 Met with Emma, Henrik, and Tom at Victoria Park. It was nice to see and chat with these lovely folks. 
 
 ### November 5, 2020
-First em lab session to demonstrate. It's been years since the last time I played with circuits. 
+Lab session to demonstrate. It's been years since the last time I played with circuits. 
 
 ### November 6, 2020
-Second em lab session. Had a nice conversation with my neighbors this evening. 
+Second lab session. Had a nice conversation with my neighbors this evening. 
 
 
 ## Week 7
 ### November 9, 2020
-Read Moore et al. (2019) - Modelling H3+ in planetary atmospheres: effects of vertical gradients on observed quantities.
+Read Moore et al. (2019) - Modelling H3+ in planetary atmospheres: effects of vertical gradients on observed quantities. 
 
 ### November 10, 2020
 Attended second session of Developing Teaching Practice and workshop Defining and Refining Research Question. 
 
-### November 10, 2020
+### November 11, 2020
 Supervision meeting with Tom. Confirmed training plan. Will continue reading and start with trying to plot the spectra.
+
+### November 12, 2020
+Lab session to demonstrate. 
+
+### November 13, 2020
+Second lab session. Read Rosie's thesis.
