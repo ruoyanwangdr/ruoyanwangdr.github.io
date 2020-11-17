@@ -128,3 +128,6 @@ Second lab session. Read Rosie's thesis.
 ## Week 8
 ### November 16, 2020
 Grading. Read Steve's Bible - Space Plasma Physics.
+
+### November 17, 2020
+Journal club. Started data processing with reading in the fits files and plotting the spectra. Studied for Developing Teaching Practice.
