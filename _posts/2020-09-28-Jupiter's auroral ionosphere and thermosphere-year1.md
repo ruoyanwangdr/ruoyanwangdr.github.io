@@ -123,3 +123,8 @@ Lab session to demonstrate.
 
 ### November 13, 2020
 Second lab session. Read Rosie's thesis.
+
+
+## Week 8
+### November 16, 2020
+Grading. Read Steve's Bible - Space Plasma Physics.
