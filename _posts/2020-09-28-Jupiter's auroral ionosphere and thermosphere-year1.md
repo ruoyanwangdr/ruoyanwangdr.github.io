@@ -131,3 +131,6 @@ Grading. Read Steve's Bible - Space Plasma Physics.
 
 ### November 17, 2020
 Journal club. Started data processing with reading in the fits files and plotting the spectra. Studied for Developing Teaching Practice.
+
+### November 18, 2020
+Met with Tom and discussed plots. Reviewed NIRSpec Format Simulator. Will need to learn more details regarding the observed data. 
