@@ -11,24 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>https://rywjhzd.github.io/home/hero_carousel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rywjhzd.github.io/home/hero_carousel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic</title>
-      <link>https://rywjhzd.github.io/home/hero/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rywjhzd.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release   Star</description>
-    </item>
-    
-    <item>
       <title>Biography</title>
       <link>https://rywjhzd.github.io/home/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -38,11 +20,20 @@
     </item>
     
     <item>
-      <title>Skills</title>
-      <link>https://rywjhzd.github.io/home/skills/</link>
+      <title>Academics</title>
+      <link>https://rywjhzd.github.io/home/academics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rywjhzd.github.io/home/skills/</guid>
+      <guid>https://rywjhzd.github.io/home/academics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Works</title>
+      <link>https://rywjhzd.github.io/home/works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rywjhzd.github.io/home/works/</guid>
       <description></description>
     </item>
     
@@ -56,7 +47,7 @@
     </item>
     
     <item>
-      <title>Accomplish&amp;shy;ments</title>
+      <title>Awards</title>
       <link>https://rywjhzd.github.io/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -74,20 +65,20 @@
     </item>
     
     <item>
-      <title>Recent Publications</title>
-      <link>https://rywjhzd.github.io/home/publications/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://rywjhzd.github.io/home/publications/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Featured Talks</title>
       <link>https://rywjhzd.github.io/home/talks_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rywjhzd.github.io/home/talks_featured/</guid>
+      <description></description>
+    </item>
+        
+    <item>
+      <title>Publications</title>
+      <link>https://rywjhzd.github.io/home/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rywjhzd.github.io/home/publications/</guid>
       <description></description>
     </item>
     
@@ -119,13 +110,12 @@
     </item>
     
     <item>
-      <title>Custom Section</title>
-      <link>https://rywjhzd.github.io/home/teaching/</link>
+      <title>Engagement</title>
+      <link>https://rywjhzd.github.io/home/engagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rywjhzd.github.io/home/teaching/</guid>
-      <description>This is an example of using the custom widget to create your own homepage section.
-To remove this section, either delete content/home/teaching.md or edit the frontmatter of the file to deactivate the widget by setting active = false.</description>
+      <guid>https://rywjhzd.github.io/home/engagement/</guid>
+      <description></description>
     </item>
     
     <item>
