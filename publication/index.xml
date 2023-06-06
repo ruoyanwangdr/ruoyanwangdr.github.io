@@ -6,6 +6,7 @@
     <description>Recent content in Publications on Ruoyan Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Tue, 06 June 2023 19:26:37 +0100</lastBuildDate>
     
 	<atom:link href="https://rywjhzd.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
 	
@@ -13,9 +14,28 @@
     <item>
       <title>Journal Articles</title>
       <link>https://rywjhzd.github.io/publication/peer-reviewed/</link>
+      <pubDate>Tue, 06 June 2023 19:26:37 +0100</pubDate>
       
       <guid>https://rywjhzd.github.io/publication/peer-reviewed/</guid>
       <description>Peer-reviewed journal articles.</description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>https://rywjhzd.github.io/publication/professional-talks/</link>
+      <pubDate>Tue, 06 June 2023 19:26:37 +0100</pubDate>
+      
+      <guid>https://rywjhzd.github.io/publication/professional-talks/</guid>
+      <description>Conference talks at national and international meetings.</description>
+    </item>
+    
+    <item>
+      <title>Observing Proposals</title>
+      <link>https://rywjhzd.github.io/publication/observing-proposals/</link>
+      <pubDate>Tue, 06 June 2023 19:26:37 +0100</pubDate>
+      
+      <guid>https://rywjhzd.github.io/publication/observing-proposals/</guid>
+      <description>Observing proposals of astronomical telescopes.</description>
     </item>
     
   </channel>
