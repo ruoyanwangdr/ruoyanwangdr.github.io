@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Ruoyan Wang</title>
-    <link>https://rywjhzd.github.io/categories/</link>
+    <link>https://ruoyanwangdr.github.io/categories/</link>
     <description>Recent content in Categories on Ruoyan Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
 
-    <atom:link href="https://rywjhzd.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://ruoyanwangdr.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
 
 
   </channel>

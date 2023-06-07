@@ -3,146 +3,153 @@
   xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ruoyan Wang</title>
-    <link>https://rywjhzd.github.io/home/</link>
+    <link>https://ruoyanwangdr.github.io/home/</link>
     <description>Recent content in Homes on Ruoyan Wang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
 
-    <atom:link href="https://rywjhzd.github.io/home/index.xml" rel="self" type="application/rss+xml" />
-
+    <atom:link href="https://ruoyanwangdr.github.io/home/index.xml" rel="self" type="application/rss+xml" />
 
     <item>
-      <title>Biography</title>
-      <link>https://rywjhzd.github.io/home/about/</link>
+      <title></title>
+      <link>https://ruoyanwangdr.github.io/home/hero_carousel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/about/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/hero_carousel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biography</title>
+      <link>https://ruoyanwangdr.github.io/home/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+
+      <guid>https://ruoyanwangdr.github.io/home/about/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Skills</title>
-      <link>https://rywjhzd.github.io/home/skills/</link>
+      <link>https://ruoyanwangdr.github.io/home/skills/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/skills/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/skills/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Academics</title>
-      <link>https://rywjhzd.github.io/home/academics/</link>
+      <link>https://ruoyanwangdr.github.io/home/academics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/academics/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/academics/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Works</title>
-      <link>https://rywjhzd.github.io/home/works/</link>
+      <link>https://ruoyanwangdr.github.io/home/works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/works/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/works/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Experience</title>
-      <link>https://rywjhzd.github.io/home/experience/</link>
+      <link>https://ruoyanwangdr.github.io/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/experience/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/experience/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Awards</title>
-      <link>https://rywjhzd.github.io/home/accomplishments/</link>
+      <link>https://ruoyanwangdr.github.io/home/accomplishments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/accomplishments/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/accomplishments/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Featured Publications</title>
-      <link>https://rywjhzd.github.io/home/publications_featured/</link>
+      <link>https://ruoyanwangdr.github.io/home/publications_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/publications_featured/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/publications_featured/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Featured Talks</title>
-      <link>https://rywjhzd.github.io/home/talks_featured/</link>
+      <link>https://ruoyanwangdr.github.io/home/talks_featured/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/talks_featured/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/talks_featured/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Publications</title>
-      <link>https://rywjhzd.github.io/home/publications/</link>
+      <link>https://ruoyanwangdr.github.io/home/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/publications/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/publications/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://rywjhzd.github.io/home/talks/</link>
+      <link>https://ruoyanwangdr.github.io/home/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/talks/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/talks/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Recent Posts</title>
-      <link>https://rywjhzd.github.io/home/posts/</link>
+      <link>https://ruoyanwangdr.github.io/home/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/posts/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/posts/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Projects</title>
-      <link>https://rywjhzd.github.io/home/projects/</link>
+      <link>https://ruoyanwangdr.github.io/home/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/projects/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/projects/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Engagement</title>
-      <link>https://rywjhzd.github.io/home/engagement/</link>
+      <link>https://ruoyanwangdr.github.io/home/engagement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/engagement/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/engagement/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Tags</title>
-      <link>https://rywjhzd.github.io/home/tags/</link>
+      <link>https://ruoyanwangdr.github.io/home/tags/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/tags/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/tags/</guid>
       <description></description>
     </item>
 
     <item>
       <title>Contact</title>
-      <link>https://rywjhzd.github.io/home/contact/</link>
+      <link>https://ruoyanwangdr.github.io/home/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
 
-      <guid>https://rywjhzd.github.io/home/contact/</guid>
+      <guid>https://ruoyanwangdr.github.io/home/contact/</guid>
       <description></description>
     </item>
 
